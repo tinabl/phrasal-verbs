@@ -1,0 +1,3621 @@
+this is the project that i created the database myself.
+
+2.
+
+account for: açıklamak, sebebi olmak
+How do you account for the show's success?
+Rural Americans are often older than those in other parts of America and that may account for the slower adoption rates for internet access.
+​3. to give a record of how the money in your care has been spent
+We have to account for every penny we spend on business trips.
+4. to form the total of something:
+Students account for the vast majority of our customers.
+
+add up: (especially in negative sentences)
+Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
+I get a different answer each time I add these figure s up.
+(Bu rakamları her topladığımda farklı bir cevap alıyorum.)
+Cinema tickets, drinks, snacks - it all adds up to a lot a money.
+also, (of numbers) to make a total that seems reasonable or is useful (hesabın tutmaması)
+(especially in negative sentences) 
+We can't sponsor this project. The figures simply don't add up.
+
+ask around:
+Our babysitter's just moved away, so we're asking around for a replacement.
+(Bebek bakıcımız yeni taşındı, bu yüzden çevreden yenisini soruyoruz.)
+If you ask around I'm sure someone there can give you directions to the museum.
+(Etrafa sorarsanız, eminim orada birileri size müzenin tarifini verebilir.)
+I don't know of any vacancies in the company but I'll ask around.
+(Şirkette boş pozisyon bilmiyorum ama etrafa soracağım.)
+
+ask for: (so/sth)
+There's someone at the door asking for Richard.
+She's great to work for - I really couldn't ask for a better boss. a better
+(Onun için çalışmak harika - Gerçekten daha iyi bir patron isteyemezdim.)
+I always ask for extra tomato sauce on my pizza.
+They asked their boss for more money, but he refused.
+extra: ask for it:​(informal) to deserve something bad that happens to you or that somebody does to you
+‘You shouldn’t have said that to her.’ ‘Well, she asked for it!’
+-We can use ask with the to-infinitive to talk about requesting something:
+She asked to see Professor Fenton. 
+We asked the City Council to help us organise a sports day. 
+-Want is merely to desire. You can secretly want something. The mere fact that to want something does not  necessarily mean that sb will know about it.
+To ask, however, is to request - to put your desire into words.
+-Demand means ‘ask for something forcefully’, in a way that shows we are not expecting a refusal.
+extra: ask after: to ask for information about someone, especially about their health:
+Tell your father I was asking after him.
+He always asks after you in his letters.
+
+ask in:  (especially home)
+I'd ask you in for a coffee but I have to get up early for work in the morning.
+
+ask out:
+He still hasn't asked me out. Maybe he doesn't have romantic feelings for me after all.
+I'm sorry, we're busy on friday night. My friend Jack has asked us out to dinner.
+
+
+
+
+How do you account for the show's success?
+Rural Americans are often older than those in other parts of America and that may account for the slower adoption rates for internet access.
+We have to account for every penny we spend on business trips.
+Students account for the vast majority of our customers.
+Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
+I get a different answer each time I add these figure s up.
+Cinema tickets, drinks, snacks - it all adds up to a lot a money.
+We can't sponsor this project. The figures simply don't add up.
+Our babysitter's just moved away, so we're asking around for a replacement.
+If you ask around I'm sure someone there can give you directions to the museum.
+I don't know of any vacancies in the company but I'll ask around.
+There's someone at the door asking for Richard.
+She's great to work for - I really couldn't ask for a better boss. a better
+I always ask for extra tomato sauce on my pizza.
+They asked their boss for more money, but he refused.
+You shouldn’t have said that to her. -Well, she asked for it!
+She asked to see Professor Fenton. 
+We asked the City Council to help us organise a sports day. 
+Tell your father I was asking after him.
+He always asks after you in his letters.
+I'd ask you in for a coffee but I have to get up early for work in the morning.
+He still hasn't asked me out. Maybe he doesn't have romantic feelings for me after all.
+I'm sorry, we're busy on friday night. My friend Jack has asked us out to dinner. (23)
+
+
+
+How do you _____________ the show's success?
+Rural Americans are often older than those in other parts of America and that may _____________ the slower adoption rates for internet access.
+We have to _____________ every penny we spend on business trips.
+Students _____________ the vast majority of our customers.
+Watson claimed he was at home at the time of the murder, but police said his story didn't _____________.
+I get a different answer each time I _________ these figure s _________.
+Cinema tickets, drinks, snacks - it all _____________ to a lot a money.
+We can't sponsor this project. The figures simply don't _____________.
+Our babysitter's just moved away, so we're _____________ for a replacement.
+If you _____________ I'm sure someone there can give you directions to the museum.
+I don't know of any vacancies in the company but I'll _____________.
+There's someone at the door _____________ Richard.
+She's great to work for - I really couldn't _____________ a better boss. a better
+I always _____________ extra tomato sauce on my pizza.
+They _________ their boss _________ more money, but he refused.
+You shouldn’t have said that to her. -Well, she ____________!
+She _____________ to see Professor Fenton. 
+We _____________ the City Council to help us organise a sports day. 
+Tell your father I was _____________ him.
+He always _____________ you in his letters.
+I'd _________ you _________ for a coffee but I have to get up early for work in the morning.
+He still hasn't _________ me _________. Maybe he doesn't have romantic feelings for me after all.
+I'm sorry, we're busy on friday night. My friend Jack has _________ us _________ to dinner.
+
+
+
+quiz.1
+"There's someone at the door _____________ Richard.",
+ 'You shouldn’t have said that to her. -Well, she ____________!',
+ 'I get a different answer each time I _________ these figure s _________.',
+ 'I always _____________ extra tomato sauce on my pizza.',
+ "Our babysitter's just moved away, so we're _____________ for a replacement.",
+ 'We have to _____________ every penny we spend on business trips.',
+ 'They _________ their boss _________ more money, but he refused.',
+ "If you _____________ I'm sure someone there can give you directions to the museum.",
+ 'Rural Americans are often older than those in other parts of America and that may _____________ the slower adoption rates for internet access.',
+ "She's great to work for - I really couldn't _____________ a better boss. a better",
+ 'She _____________ to see Professor Fenton. ',
+ "How do you _____________ the show's success?",
+ "I'm sorry, we're busy on friday night. My friend Jack has _________ us _________ to dinner.",
+ 'He always _____________ you in his letters.',
+ "Watson claimed he was at home at the time of the murder, but police said his story didn't _____________.",
+ 'Students _____________ the vast majority of our customers.',
+ "He still hasn't _________ me _________. Maybe he doesn't have romantic feelings for me after all.",
+ "I'd _________ you _________ for a coffee but I have to get up early for work in the morning.",
+ 'Cinema tickets, drinks, snacks - it all _____________ to a lot a money.',
+ "I don't know of any vacancies in the company but I'll _____________.",
+ 'Tell your father I was _____________ him.',
+ "We can't sponsor this project. The figures simply don't _____________.",
+ 'We _____________ the City Council to help us organise a sports day. '
+
+
+
+
+
+
+
+
+
+
+
+
+4.
+
+break away: kaçmak; ayrılmak
+He grabbed her, but she managed to break away.
+One or two of the tourists broke away from the tour group.
+Some members of the party broke away to form a rival party.
+The small radical faction broke away from the independence movement.
+(Küçük radikal hizip, bağımsızlık hareketinden koptu.)
+
+break down:
+Our car broke down and we had to push it off the road.
+When we gave her the bad news, she broke down and cried.
+The police threatened to break the door down.
+also, to divide or cause to divide into two or more parts or groups:
+A good way to deal with a big problem is to break it down to a series of smaller ones.
+also, to fail:
+Negotiations between the two sides have broken down.
+Their marriage had broken down irretrievably.
+
+break into:
+We had our car broken into last week.
+As the president's car drew up, the crowd broke into loud applause.
+He felt so happy that he broke into song. song
+also, to begin working in a new business or a new area:
+Rising from humble beginnings, he succeeded in Hollywood, broke into politics, and became President.
+
+break out:
+They had escaped to America shortly before war broke out in 1939.
+Fighting has broken out all over the city. (Çatışma şehrin her yerinde patlak verdi.)
+break out (of something): ​to escape from a place or situation
+Several prisoners broke out of the jail.
+She needed to break out of her daily routine and do something exciting.
+​break out (in something): to suddenly be affected by an unpleasant feeling or problem on
+skin:
+I’m allergic to strawberries. They make me break out in a rash.
+
+break through: (Noun: breakthrough)
+Demonstrators broke through the police cordon.
+Sales have finally broken through the $1 million barrier.
+The discovery of the structure of DNA was a major scientific breakthrough.
+(DNA'nın yapısının keşfi büyük bir bilimsel atılımdı.)
+
+break up: dağılmak
+She's just broken up with her boyfriend. with
+She met her second husband not long after her first marriage broke up.
+The house is so old that the plaster on the walls is breaking up.
+He broke up the old wooden furniture and burnt it.
+The company has been broken up and sold off.
+(especially British English) to begin the holidays when school closes at the end of a term:
+When do you break up for Christmas?
+​to go away in different directions:
+The meeting broke up at ten to three. (Toplantı üçe on kala dağıldı.)
+I don't want to break up the party but I have to go now.
+(Partiyi bölmek istemiyorum ama şimdi gitmeliyim.)
+
+
+
+
+
+
+
+He grabbed her, but she managed to break away.
+One or two of the tourists broke away from the tour group.
+Some members of the party broke away to form a rival party.
+The small radical faction broke away from the independence movement.
+Our car broke down and we had to push it off the road.
+When we gave her the bad news, she broke down and cried.
+The police threatened to break the door down.
+A good way to deal with a big problem is to break it down to a series of smaller ones.
+Negotiations between the two sides have broken down.
+Their marriage had broken down irretrievably.
+We had our car broken into last week.
+As the president's car drew up, the crowd broke into loud applause.
+He felt so happy that he broke into song. 
+Rising from humble beginnings, he succeeded in Hollywood, broke into politics, and became President.
+They had escaped to America shortly before war broke out in 1939.
+Fighting has broken out all over the city. 
+Several prisoners broke out of the jail.
+She needed to break out of her daily routine and do something exciting.
+I’m allergic to strawberries. They make me break out in a rash.
+Demonstrators broke through the police cordon.
+Sales have finally broken through the $1 million barrier.
+The discovery of the structure of DNA was a major scientific breakthrough.
+She's just broken up with her boyfriend. 
+She met her second husband not long after her first marriage broke up.
+The house is so old that the plaster on the walls is breaking up.
+He broke up the old wooden furniture and burnt it.
+The company has been broken up and sold off.
+When do you break up for Christmas?
+The meeting broke up at ten to three. 
+I don't want to break up the party but I have to go now. (30)
+
+
+
+
+
+He grabbed her, but she managed to ______________.
+One or two of the tourists ______________ from the tour group.
+Some members of the party ______________ to form a rival party.
+The small radical faction ______________ from the independence movement.
+Our car ______________. and we had to push it off the road.
+When we gave her the bad news, she ______________ and cried.
+The police threatened to _________ the door _________.
+A good way to deal with a big problem is to _________ it _________ to a series of smaller ones.
+Negotiations between the two sides have ______________.
+Their marriage had ______________ irretrievably.
+We had our car ______________ last week.
+As the president's car drew up, the crowd ______________ loud applause.
+He felt so happy that he ______________ song. 
+Rising from humble beginnings, he succeeded in Hollywood, ______________ politics, and became President.
+They had escaped to America shortly before war ______________ in 1939.
+Fighting has ______________ all over the city. 
+Several prisoners ______________ of the jail.
+She needed to ______________ of her daily routine and do something exciting.
+I’m allergic to strawberries. They make me ______________ in a rash.
+Demonstrators ______________ the police cordon.
+Sales have finally ______________ the $1 million barrier.
+The discovery of the structure of DNA was a major scientific ______________.
+She's just ______________ with her boyfriend. 
+She met her second husband not long after her first marriage ______________.
+The house is so old that the plaster on the walls is ______________.
+He ______________ the old wooden furniture and burnt it.
+The company has been ______________ and sold off.
+When do you ______________ for Christmas?
+The meeting ______________ at ten to three. 
+I don't want to ______________ the party but I have to go now. 
+
+
+
+
+
+
+
+
+
+
+5.
+
+bring about: neden olmak
+His disregard for danger brought about his death.
+He brought about his company's collapse by his reckless spending.
+
+bring along: beraberinde getirmek
+Can I bring a friend along to the party?
+My mother brought a book along to the beach just in case she got bored.
+
+bring around: 
+1. At first they refused but I managed to bring them around to my way of thinking.
+2. I gave him a sniff of smelling salts to bring him around.
+
+bring forward: 
+The police brought forward some new evidence in the case.
+Polis davayla ilgili bazı yeni kanıtlar getirdi.
+They will consider the suggestions which you have brought forward.
+Getirdiğiniz önerileri dikkate alacaklardır.
+3. The elections were brought forward by three months. by
+
+bring out: dışarı çıkarmak; ortaya çıkarmak; çıkarmak, yayınlamak
+Now that the storm is over, we can bring the outdoor furniture out again.
+As a teacher he is totally dedicated and brings out the best in his pupils. in
+The right lighting can bring out the beauty in a room. in
+We're waiting until they bring out a new version of the system.
+After working as an economist for 30 years, he brought out a book about the economy.
+
+bring up:
+Bring the matter up at the next meeting.
+Bir sonraki toplantıda konuyu gündeme getirin.
+She's always bringing up her health problems.
+I promised not to bring up business at lunch but I couldn't keep my word.
+They brought her up to be a Catholic.
+3. to cause something to appear on a screen
+Clicking on the icon brings up a dialogue box.
+You can bring up the menu by right-clicking on the title bar.
+
+
+
+
+His disregard for danger brought about his death.
+He brought about his company's collapse by his reckless spending.
+Can I bring a friend along to the party?
+My mother brought a book along to the beach just in case she got bored.
+At first they refused but I managed to bring them around to my way of thinking.
+I gave him a sniff of smelling salts to bring him around.
+The police brought forward some new evidence in the case.
+They will consider the suggestions which you have brought forward.
+The elections were brought forward by three months. 
+Now that the storm is over, we can bring the outdoor furniture out again.
+As a teacher he is totally dedicated and brings out the best in his pupils. 
+The right lighting can bring out the beauty in a room. 
+We're waiting until they bring out a new version of the system.
+After working as an economist for 30 years, he brought out a book about the economy.
+Bring the matter up at the next meeting.
+She's always bringing up her health problems.
+I promised not to bring up business at lunch but I couldn't keep my word.
+They brought her up to be a Catholic.
+Clicking on the icon brings up a dialogue box.
+You can bring up the menu by right-clicking on the title bar. (20)
+
+
+His disregard for danger ____________ his death.
+He ____________ his company's collapse by his reckless spending.
+Can I _________ a friend _________ to the party?
+My mother __________ a book __________ to the beach just in case she got bored.
+At first they refused but I managed to __________ them __________ to my way of thinking.
+I gave him a sniff of smelling salts to _________ him _________.
+The police ___________ some new evidence in the case.
+They will consider the suggestions which you have ___________.
+The elections were _____________ by three months. 
+Now that the storm is over, we can _________ the outdoor furniture _________ again.
+As a teacher he is totally dedicated and _____________ the best in his pupils. 
+The right lighting can ___________ the beauty in a room. 
+We're waiting until they ___________ a new version of the system.
+After working as an economist for 30 years, he ___________ a book about the economy.
+________ the matter ________ at the next meeting.
+She's always___________ her health problems.
+I promised not to___________ business at lunch but I couldn't keep my word.
+They _________ her ________ to be a Catholic.
+Clicking on the icon ___________ a dialogue box.
+You can ___________ the menu by right-clicking on the title bar.
+
+
+quiz.1
+["We're waiting until they ___________ a new version of the system.",
+ 'The elections were _____________ by three months. ',
+ 'Now that the storm is over, we can _________ the outdoor furniture _________ again.',
+ 'They _________ her ________ to be a Catholic.',
+ 'His disregard for danger ____________ his death.',
+ 'Can I _________ a friend _________ to the party?',
+ 'You can ___________ the menu by right-clicking on the title bar.',
+ "He ____________ his company's collapse by his reckless spending.",
+ 'They will consider the suggestions which you have ___________.',
+ 'After working as an economist for 30 years, he ___________ a book about the economy.',
+ "I promised not to___________ business at lunch but I couldn't keep my word.",
+ "She's always___________ her health problems.",
+ 'As a teacher he is totally dedicated and _____________ the best in his pupils. ',
+ 'The police ___________ some new evidence in the case.',
+ '________ the matter ________ at the next meeting.',
+ 'My mother __________ a book __________ to the beach just in case she got bored.',
+ 'The right lighting can ___________ the beauty in a room. ',
+ 'At first they refused but I managed to __________ them __________ to my way of thinking.',
+ 'I gave him a sniff of smelling salts to _________ him _________.',
+ 'Clicking on the icon ___________ a dialogue box.']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. 
+
+buckle up: (uk belt up)
+​(informal) to fasten seat belt 
+Don't forget, buckle up before you start driving.
+
+bump into:
+We bumped into Kayla in a shop this morning.
+
+burn down:
+We watched helplessly as our house burned down despite the firefighters' efforts.
+as 'yandığını' anlamı katıyor, 'yanmasını' olmuyor bu durumda. 
+
+burst in/into:
+He burst into our flat, forced us to get on the bed.
+(Adam dairemize daldı ve bizi zorla yatağa yatırdı.)
+The aircraft crashed and burst into flames (= suddenly began to burn).
+She burst into tears (= suddenly began to cry).
+The side door of the bar flew open and three men burst in.
+
+call back: 
+I'm waiting for someone to call me back with a price.
+
+call for:
+It's the sort of work that calls for a high level of concentration.
+2. ​ to publicly ask for something to happen, çağrı yapmak
+The opposition have called for him to resign. (Muhalefet istifaya çağırdı.)
+They called for the immediate release of the hostages.
+(Rehinelerin derhal serbest bırakılması çağrısında bulundular.)
+
+
+
+
+Don't forget, buckle up before you start driving.
+We bumped into Kayla in a shop this morning.
+We watched helplessly as our house burned down despite the firefighters' efforts.
+He burst into our flat, forced us to get on the bed.
+The aircraft crashed and burst into flames (= suddenly began to burn).
+She burst into tears (= suddenly began to cry).
+The side door of the bar flew open and three men burst in.
+I'm waiting for someone to call me back with a price.
+It's the sort of work that calls for a high level of concentration.
+The opposition have called for him to resign.
+They called for the immediate release of the hostages. (11)
+
+
+
+Don't forget, ___________ before you start driving.
+We ___________ Kayla in a shop this morning.
+We watched helplessly as our house ___________ despite the firefighters' efforts.
+He ___________ our flat, forced us to get on the bed.
+The aircraft crashed and ___________ flames (= suddenly began to burn).
+She ___________ tears (= suddenly began to cry).
+The side door of the bar flew open and three men ___________.
+I'm waiting for someone to ________ me ________ with a price.
+It's the sort of work that ___________ a high level of concentration.
+The opposition have ___________ him to resign.
+They ___________ the immediate release of the hostages.
+
+
+quiz.1
+["It's the sort of work that ___________ a high level of concentration.",
+ 'The aircraft crashed and ___________ flames (= suddenly began to burn).',
+ "We watched helplessly as our house ___________ despite the firefighters' efforts.",
+ "Don't forget, ___________ before you start driving.",
+ 'She ___________ tears (= suddenly began to cry).',
+ 'The side door of the bar flew open and three men ___________.',
+ "I'm waiting for someone to ________ me ________ with a price.",
+ 'We ___________ Kayla in a shop this morning.',
+ 'He ___________ our flat, forced us to get on the bed.',
+ 'The opposition have ___________ him to resign.',
+ 'They ___________ the immediate release of the hostages.']
+
+
+
+
+
+
+
+
+
+
+
+
+
+7.
+
+call off:
+Tomorrow's match has been called off because of the icy weather.
+The police have called off the search for the missing child until dawn tomorrow.
+The wedding was planned for June and they've just called the whole thing off.
+I shouted to him to call his dog off, but he just laughed at me.
+Call off your thugs, and I'll show you where the money is.
+
+carry on:
+Carry on until you get to the junction, then turn left.
+Daphne is carrying on the family tradition by becoming a lawyer.
+He'll finish up dead if he carries on drinking like that!
+​Inf. to behave uncontrolled, anxious or complain noisily
+The children have been shouting and carrying on all day.
+
+carry out:
+Dr Carter is carrying out research on early Christian art.
+The hospital is carrying out tests to find out what's wrong with her.
+Don't blame me, I'm only carrying out my orders/instructions.
+The police carried out a thorough search of the premises, but failed to find any drugs.
+(Polis olay yerinde kapsamlı arama yaptı ancak herhangi bir uyuşturucu madde bulamadı.)
+According to witnesses, the robbery was carried out by two teenage boys.
+
+catch up:
+yetişmek, yakalamak; yetiştirmek
+He's lagging behind a bit - I think we'd better wait for him to catch us up.
+(Biraz geride kalıyor; sanırım onun bizi yakalamasını beklesek iyi olur.)
+ We’re a young, growing company, and we’re trying to catch up to the competition.
+After missing a term through illness, he had to work hard to catch up with the others. with
+She was terrified that one day her past problems would catch up with her. with
+Let's go for a coffee - I need to catch up on all the gossip. on (Haydi bir kahve içelim; bütün dedikoduları öğrenmem lazım.)
+He used the train journey to catch up with the morning news. with
+We're trying to catch up on paperwork this week. on
+Sam drove straight to the office to catch up with the mountain of work he had waiting for him. with 
+(Sam onu bekleyen bir yığın işi bitirmek için doğrudan ofise gitti.)
+
+check in:
+We've checked in at the hotel with a representative from the tour company. at
+​to leave bags or cases with an official to be put on a plane or train:
+Passengers will be allowed to check in one suitcase free of charge.
+to contact someone in order to make sure there are no problems:
+My son checks in regularly with me when he's travelling. 
+
+check out:
+We checked out (of/from our hotel) at 5 a.m. to catch a 7 a.m. flight.
+I'm not sure but we can go down to the library and check it out.
+They spent two days in Orlando checking out a handful of potential sites for investment.
+You have to check out the nursing home before putting your mother in it.
+Her statement checks out with most of the eyewitness reports.
+The local police found her story didn't check out. story. (Yerel polis onun hikayesinin doğrulanmadığını tespit etti.)
+to borrow something from an official place, for example a book from a library:
+The book has been checked out in your name.
+
+
+
+
+
+
+
+
+
+
+
+Tomorrow's match has been called off because of the icy weather.
+The police have called off the search for the missing child until dawn tomorrow.
+The wedding was planned for June and they've just called the whole thing off.
+I shouted to him to call his dog off, but he just laughed at me.
+Call off your thugs, and I'll show you where the money is.
+Carry on until you get to the junction, then turn left.
+Daphne is carrying on the family tradition by becoming a lawyer.
+He'll finish up dead if he carries on drinking like that!
+The children have been shouting and carrying on all day.
+Dr Carter is carrying out research on early Christian art.
+The hospital is carrying out tests to find out what's wrong with her.
+Don't blame me, I'm only carrying out my orders/instructions.
+The police carried out a thorough search of the premises, but failed to find any drugs.
+According to witnesses, the robbery was carried out by two teenage boys.
+He's lagging behind a bit - I think we'd better wait for him to catch us up.
+ We’re a young, growing company, and we’re trying to catch up to the competition.
+After missing a term through illness, he had to work hard to catch up with the others. 
+She was terrified that one day her past problems would catch up with her. 
+Let's go for a coffee - I need to catch up on all the gossip. 
+He used the train journey to catch up with the morning news. 
+We're trying to catch up on paperwork this week. 
+Sam drove straight to the office to catch up with the mountain of work he had waiting for him. 
+We've checked in at the hotel with a representative from the tour company. 
+Passengers will be allowed to check in one suitcase free of charge.
+My son checks in regularly with me when he's travelling. 
+We checked out (of/from our hotel) at 5 a.m. to catch a 7 a.m. flight.
+I'm not sure but we can go down to the library and check it out.
+They spent two days in Orlando checking out a handful of potential sites for investment.
+You have to check out the nursing home before putting your mother in it.
+Her statement checks out with most of the eyewitness reports.
+The local police found her story didn't check out. 
+The book has been checked out in your name. (32)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.
+
+cheer up: neşelen(dir)mek
+She was sick so I sent her some flowers to cheer her up.
+He cheered up at the prospect of a meal.
+Cheer up! It's not that bad!
+
+chicken out: inf.
+We were going to go bungee jumping, but Sandra chickened out at the last minute.
+You’re not going to chicken out, are you?
+
+chill out:
+Rex decided to come home and chill out for a while after a tiresome day.
+Chill out, Dad. The train doesn't leave for another hour.
+(Sakin ol, baba. Tren bir saat daha kalkmıyor.)
+If anything major happens we’re going to find out, so let’s chill out and just do what we need to do.
+
+chop down:
+Most of the diseased fir trees were chopped down last year.
+There are concerns over how quickly the forests are being chopped down.
+
+clean out: (noun: clean-out or cleanout)
+I found these photos while I was cleaning out my cupboards.
+You can use old paint cans, but be sure to clean them out first.
+to use or steal all of someone's money or goods:
+Richard came home for the weekend and completely cleaned us out of food.
+When dotcom companies collapsed, many investors were cleaned out.
+(Dotcom şirketleri çöktüğünde, birçok yatırımcı temizlendi.)
+Automakers were offering big rebates to clean out their inventories.
+(Otomobil üreticileri stoklarını temizlemek için büyük indirimler teklif ediyorlardı.)
+
+clean up: (noun: clean-up or cleanup)
+We'll go out as soon as I've cleaned up the kitchen.
+We need to do something to clean up this mess and then get out of there.
+I have to clean things up before the guests arrive.
+to make yourself clean, usually by washing
+(inf) I need to change and clean up.
+to remove crime and immoral behaviour from a place or an activity
+We need a mayor who is tough enough to clean up this town.
+Last week the Government announced plans to clean up the mortgage industry.
+After the scandal, a team of marketing specialists was hired to clean up the company's image.
+to win a lot of money:
+We cleaned up at the poker table last night.
+
+extra: clean off, used to talk about cleaning a flat surface
+We need to clean off the table since we have guests coming home.
+Please clean off the TV screen.
+clean away, talks about cleaning the mess in a space
+My mom will clean away the broken pieces on the floor.
+Please clean away the liquid on the ground.
+
+
+
+
+
+
+She was sick so I sent her some flowers to cheer her up.
+He cheered up at the prospect of a meal.
+Cheer up! It's not that bad!
+We were going to go bungee jumping, but Sandra chickened out at the last minute.
+You’re not going to chicken out, are you?
+Rex decided to come home and chill out for a while after a tiresome day.
+Chill out, Dad. The train doesn't leave for another hour.
+If anything major happens we’re going to find out, so let’s chill out and just do what we need to do.
+Most of the diseased fir trees were chopped down last year.
+There are concerns over how quickly the forests are being chopped down.
+I found these photos while I was cleaning out my cupboards.
+You can use old paint cans, but be sure to clean them out first.
+Richard came home for the weekend and completely cleaned us out of food.
+When dotcom companies collapsed, many investors were cleaned out.
+Automakers were offering big rebates to clean out their inventories.
+We'll go out as soon as I've cleaned up the kitchen.
+We need to do something to clean up this mess and then get out of there.
+I have to clean things up before the guests arrive.
+I need to change and clean up.
+We need a mayor who is tough enough to clean up this town.
+Last week the Government announced plans to clean up the mortgage industry.
+After the scandal, a team of marketing specialists was hired to clean up the company's image.
+We cleaned up at the poker table last night.
+We need to clean off the table since we have guests coming home.
+Please clean off the TV screen.
+My mom will clean away the broken pieces on the floor.
+Please clean away the liquid on the ground. (27)
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.
+
+cling on: (cling to sth/ cling on to sth)
+to try very hard to keep something
+She managed to cling on to life for another couple of years. (Birkaç yıl daha hayata tutunmayı başardı.) to
+Throughout the trial she had clung to the belief that he was innocent.
+Some of the old people cling on to their old way of thinking. to
+
+close in: (has negative meaning)
+Hundreds of police officers were closing in on the suspects. on
+The hunt chased the fox until it was too tired and weak to run and then closed in for the kill. for the kill
+It felt as though the walls of the room were closing in on her. on
+They huddled around the fire as the night closed in. (Gece yaklaşırken ateşin etrafında toplandılar.)
+
+close up:
+The doctor closed up the cut with stitches.
+She closed up when I asked about her family.
+If you get into that business, you may have to close it up shortly.
+She closed up the house when she went on holiday/vacation.
+Why don't we close up and go out for lunch?
+to come or bring closer together, yaklaş(tır)mak:
+Traffic was heavy and cars were closing up behind each other. (Trafik yoğundu ve arabalar birbirinin ardına yaklaşıyordu.) 
+He closed up the space between the lines of print.
+Noun: close-up:
+It was strange to see her own face in close-up on the screen. in (Ekranda kendi yüzünü yakından görmek tuhaftı.)
+The slide gave close-up detail of petal formation. (Slayt taç yaprağı oluşumunun yakından detaylarını veriyordu.)
+
+come across:
+As I was passing by the park, I came across a group of children playing.
+I came across children sleeping under bridges. (Köprü altında uyuyan çocuklara rastladım.)
+What comes across in his later poetry is a great sense of sadness.
+to give other people a certain feeling or opinion:
+He comes across as a bit of a bore in interview. as
+He doesn't come across very well when he speaks in public.
+
+come along: 
+We're going to the cinema. Do you want to come along?
+2. Inf
+Your French has come along a lot recently.
+to arrive; to appear
+When the right opportunity comes along, she'll take it.
+Go now and I'll come along later.
+You wait half an hour for a bus, then three come along at once!
+used in orders to tell somebody to hurry, or to try harder
+Come along! We're late.
+Come along! It's easy!
+
+come apart:
+I picked up the book and it came apart in my hands. (Kitabı elime aldım ve elimde dağıldı.)
+The cardboard box was coming apart at the edges.
+My boots are coming apart at the seams. (Botlarımın dikiş yerleri yırtılıyor.)
+My whole life had come apart at the seams. at the seams
+(Bütün hayatım dikiş yerlerinden paramparça olmuştu.)
+
+
+
+
+
+
+
+
+
+She managed to cling on to life for another couple of years. 
+Throughout the trial she had clung to the belief that he was innocent.
+Some of the old people cling on to their old way of thinking. 
+Hundreds of police officers were closing in on the suspects. 
+The hunt chased the fox until it was too tired and weak to run and then closed in for the kill. 
+It felt as though the walls of the room were closing in on her. 
+They huddled around the fire as the night closed in. 
+The doctor closed up the cut with stitches.
+She closed up when I asked about her family.
+If you get into that business, you may have to close it up shortly.
+She closed up the house when she went on holiday/vacation.
+Why don't we close up and go out for lunch?
+Traffic was heavy and cars were closing up behind each other.
+He closed up the space between the lines of print.
+It was strange to see her own face in close-up on the screen. 
+The slide gave close-up detail of petal formation.
+As I was passing by the park, I came across a group of children playing.
+I came across children sleeping under bridges. 
+What comes across in his later poetry is a great sense of sadness.
+He comes across as a bit of a bore in interview. 
+He doesn't come across very well when he speaks in public.
+We're going to the cinema. Do you want to come along?
+Your French has come along a lot recently.
+When the right opportunity comes along, she'll take it.
+Go now and I'll come along later.
+You wait half an hour for a bus, then three come along at once!
+Come along! We're late.
+Come along! It's easy!
+I picked up the book and it came apart in my hands. 
+The cardboard box was coming apart at the edges.
+My boots are coming apart at the seams.
+My whole life had come apart at the seams. (32)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11.
+
+count in:
+You should count in the possibility of overheating.
+most common:
+"Do you want to go swimming with us tomorrow?" "Yes, count me in."
+
+cover up: 
+The company tried to cover up its employment of illegal immigrants.
+(Şirket, yasadışı göçmen çalıştırdığını örtbas etmeye çalıştı.)
+He covered up the body with a sheet.
+
+creep out:
+- The past tense of creep meaning "to move slowly" can be crept or creeped, with creeped 
+being the less common word. However, in the context of creep out (referring to the sensation 
+of creepy things), the past tense is always creeped out.
+1. inf. He said the empty streets creeped him out.
+(Boş sokakların onu ürküttüğünü söyledi.)
+That guy in the corner was really creeping us out, so we decided to leave.
+2. The fox crept out of the henhouse, carrying a chicken.
+
+cross out: üstünü çizmek
+If you think it's wrong, cross it out and write it again.
+He crossed out all her mistakes.
+
+cry out:
+She cried out in pain as the bullet grazed her shoulder.
+She cried out for help.
+She cried out his name.
+
+cut down:
+I'm trying to cut down on caffeine/ fatty foods. on
+I need to cut this section down to 500 words. to
+Patients were asked if they had cut down their use of painkillers.
+(Hastalara ağrı kesici kullanımını azaltıp azaltmadıkları soruldu.)
+
+
+
+
+
+You should count in the possibility of overheating.
+"Do you want to go swimming with us tomorrow?" "Yes, count me in."
+The company tried to cover up its employment of illegal immigrants.
+He covered up the body with a sheet.
+He said the empty streets creeped him out.
+That guy in the corner was really creeping us out, so we decided to leave.
+The fox crept out of the henhouse, carrying a chicken.
+If you think it's wrong, cross it out and write it again.
+He crossed out all her mistakes.
+She cried out in pain as the bullet grazed her shoulder.
+She cried out for help.
+She cried out his name.
+I'm trying to cut down on caffeine/ fatty foods. 
+I need to cut this section down to 500 words. 
+Patients were asked if they had cut down their use of painkillers. (15)
+
+
+
+You should ____________ the possibility of overheating.
+"Do you want to go swimming with us tomorrow?" "Yes, _________ me _________."
+The company tried to ____________ its employment of illegal immigrants.
+He ____________ the body with a sheet.
+He said the empty streets _________ him _________.
+That guy in the corner was really _________ us _________, so we decided to leave.
+The fox ____________ of the henhouse, carrying a chicken.
+If you think it's wrong, _________ it _________ and write it again.
+He ____________ all her mistakes.
+She ____________ in pain as the bullet grazed her shoulder.
+She ____________ for help.
+She ____________ his name.
+I'm trying to ____________ on caffeine/ fatty foods. 
+I need to _________ this section _________ to 500 words. 
+Patients were asked if they had ____________ their use of painkillers.
+
+
+quiz.1
+'He said the empty streets _________ him _________.',
+ 'He ____________ all her mistakes.',
+ 'You should ____________ the possibility of overheating.',
+ 'She ____________ his name.',
+ 'The fox ____________ of the henhouse, carrying a chicken.',
+ 'He ____________ the body with a sheet.',
+ 'She ____________ in pain as the bullet grazed her shoulder.',
+ 'I need to _________ this section _________ to 500 words. ',
+ "If you think it's wrong, _________ it _________ and write it again.",
+ "I'm trying to ____________ on caffeine/ fatty foods. ",
+ 'Patients were asked if they had ____________ their use of painkillers.',
+ 'She ____________ for help.',
+ '"Do you want to go swimming with us tomorrow?" "Yes, _________ me _________."',
+ 'The company tried to ____________ its employment of illegal immigrants.',
+ 'That guy in the corner was really _________ us _________, so we decided to leave.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+12.
+
+cut off:
+If this bill is not paid within five days, your gas supply will be cut off.
+The aim was to cut off the enemy's escape route/supplies.
+We had to cut off the bed's legs to get it through the door.
+Many villages have been cut off by the heavy snow.
+to suddenly interrupt someone who is speaking:
+We could get cut off - the battery in my phone is low. get
+- cut vs cut out vs cut off:
+A piece of paper is cut.
+A shape is cut out from a page.
+A corner of the page is cut off.
+
+deal with:
+They employed him because of his reputed skill in dealing with the press.
+I admire her forthright way of dealing with people.
+(İnsanlarla olan ilişkilerinde açık sözlülüğüne hayranım.)
+to be about a particular subject:
+She likes novels that deal with serious moral issues.
+(Ciddi ahlaki meseleleri ele alan romanları sever.)
+to do business with a person or company:
+I prefer to deal with the same salesperson each time.
+Our factory deals directly with its customers.
+
+die off/out:
+The veterans of World War II are now old and gradually dying off.
+This species has nearly died out because its habitat is being destroyed.
+It's a custom that is beginning to die out.
+
+divide up:
+Divide up the cake into 5 equal parts.
+The aim was to divide up the company among shareholders, but it didn't work in practice.
+The idea is to divide up the country into four sectors, each of which has its own governors. into
+
+do over: (among some​) (North American English) 
+She insisted that everything be done over.
+If I had the chance to do it over, I would have hired a proffessional.
+
+dress up:
+Kids love dressing up.
+He dressed up as a clown for the party.
+Weddings are a great opportunity to dress up.
+There's no need to dress up—come as you are.
+
+
+
+
+
+
+If this bill is not paid within five days, your gas supply will be cut off.
+The aim was to cut off the enemy's escape route/supplies.
+We had to cut off the bed's legs to get it through the door.
+Many villages have been cut off by the heavy snow.
+We could get cut off, the battery in my phone is low. 
+They employed him because of his reputed skill in dealing with the press.
+I admire her forthright way of dealing with people.
+She likes novels that deal with serious moral issues.
+I prefer to deal with the same salesperson each time.
+Our factory deals directly with its customers.
+The veterans of World War II are now old and gradually dying off.
+This species has nearly died out because its habitat is being destroyed.
+It's a custom that is beginning to die out.
+Divide up the cake into 5 equal parts.
+The aim was to divide up the company among shareholders, but it didn't work in practice.
+The idea is to divide up the country into four sectors, each of which has its own governors. 
+She insisted that everything be done over.
+If I had the chance to do it over, I would have hired a proffessional.
+Kids love dressing up.
+He dressed up as a clown for the party.
+Weddings are a great opportunity to dress up.
+There's no need to dress up—come as you are. (22)
+
+
+
+
+
+If this bill is not paid within five days, your gas supply will be ____________.
+The aim was to ____________ the enemy's escape route/supplies.
+We had to ____________ the bed's legs to get it through the door.
+Many villages have been ____________ by the heavy snow.
+We could get ____________, the battery in my phone is low. 
+They employed him because of his reputed skill in ____________ the press.
+I admire her forthright way of ____________ people.
+She likes novels that ____________ serious moral issues.
+I prefer to ____________ the same salesperson each time.
+Our factory __________ directly __________ its customers.
+The veterans of World War II are now old and gradually ____________.
+This species has nearly ____________ because its habitat is being destroyed.
+It's a custom that is beginning to ____________.
+____________ the cake into 5 equal parts.
+The aim was to ____________ the company among shareholders, but it didn't work in practice.
+The idea is to ____________ the country into four sectors, each of which has its own governors. 
+She insisted that everything be ____________.
+If I had the chance to __________ it __________, I would have hired a proffessional.
+Kids love ____________.
+He ____________ as a clown for the party.
+Weddings are a great opportunity to ____________.
+There's no need to ____________, come as you are. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14.
+
+embark on/upon: often used to indicate a journey
+                                   Do you know when David embarks on his trip for Rome?
+end up: kendini bir yerde/durumda bulmak; boylamak; soluğu ... de/da almak
+                I knew that he would end up in prison.
+                She'll end up unemployed.
+                sonunda …-mek/mak 
+                He refused to believe her, but he ended up apologizing.
+face off: confront: karşısına çıkmak
+                He faced off against Ms. Miller in the campaign's initial debate.
+                Kampanyanın ilk tartışmasında Bayan Miller ile karşı karşıya geldi.
+                Angry crowds faced off with the police in New York's Times Square. 
+fall apart: paramparça olmak, parçalanıp dağılmak
+                 altından kalkamıyacağı sorunlar yaşamaya başlamak
+                 Our furniture is falling apart.
+                 When his wife died, he fell apart (= was unable to continue with life in the usual way).
+                 The deal fell apart because of a lack of money.
+fall back: geri çekilmek, düşmek
+                  withdraw
+                  She fell back in horror/disgust.
+                  He ordered the troops to fall back.  Birliklere geri çekilme emri verdi.
+                  Stocks rallied in the first hour of trading, only to fall back sharply by noon.
+fall down:  He stumbled and fell down.
+                  Many buildings in the old part of the city are falling down.
+                  Where do you think the plan falls down?
+
+
+
+
+Do you know when David embarks on his trip for Rome?
+I knew that he would end up in prison.
+She'll end up unemployed.
+He refused to believe her, but he ended up apologizing.                
+He faced off against Ms. Miller in the campaign's initial debate.
+Angry crowds faced off with the police in New York's Times Square.                  
+Our furniture is falling apart.                 
+When his wife died, he fell apart (= was unable to continue with life in the usual way).
+The deal fell apart because of a lack of money.
+She fell back in horror/disgust.
+He ordered the troops to fall back. 
+Stocks rallied in the first hour of trading, only to fall back sharply by noon.
+He stumbled and fell down.
+Many buildings in the old part of the city are falling down. 
+Where do you think the plan falls down? (15)
+
+
+
+Do you know when David ___________ his trip for Rome?
+I knew that he would __________ in prison.
+She'll _________ unemployed.
+He refused to believe her, but he _________ apologizing.                
+He __________ against Ms. Miller in the campaign's initial debate.
+Angry crowds __________ with the police in New York's Times Square.                  
+Our furniture is __________.                
+When his wife died, he __________ (= was unable to continue with life in the usual way).
+The deal ___________ because of a lack of money.
+She __________ in horror/disgust.
+He ordered the troops to __________. 
+Stocks rallied in the first hour of trading, only to __________ sharply by noon.
+He stumbled and _________.
+Many buildings in the old part of the city are ___________.
+Where do you think the plan ___________?
+
+quiz.1:
+['Our furniture is __________.                ',
+ 'Where do you think the plan ___________?',
+ 'When his wife died, he __________ (= was unable to continue with life in the usual way).',
+ 'Many buildings in the old part of the city are ___________.',
+ 'The deal ___________ because of a lack of money.',
+ 'Do you know when David ___________ his trip for Rome?',
+ "He __________ against Ms. Miller in the campaign's initial debate.",
+ "She'll _________ unemployed.",
+ "Angry crowds __________ with the police in New York's Times Square.                  ",
+ 'I knew that he would __________ in prison.',
+ 'He ordered the troops to __________. ',
+ 'He refused to believe her, but he _________ apologizing.                ',
+ 'Stocks rallied in the first hour of trading, only to __________ sharply by noon.',
+ 'She __________ in horror/disgust.']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15.
+
+fall for: [no passive]
+I made up a story to explain why I had not been at work and he fell for it.
+"Lend me a fiver and I'll buy you a drink." "Oh no, I'm not falling for that one."
+He has fallen for your sister in a big way.
+She always falls for older men.
+
+fall off: 1. (noun: fall-off or falloff)
+Sales have been falling off recently.
+Attendance at my lectures has fallen off considerably.
+We have seen a dramatic falloff of demand in the final quarter.
+2. I finally found my phone. It must have fallen off the bed.
+
+fall out:
+Her baby teeth are starting to fall out.
+A side effect of the treatment is that your hair starts to fall out.
+A few pages fell out of the book. of
+2. münakaşa etmek/tartışmak, küsmek, arası bozulmak
+Have you and Sam fallen out with each other again? with
+(Sen ve Sam yine birbirinize mi düştünüz?)
+He left home after falling out with his parents over his ex-girlfriend. with, over
+The two fell out over coaching tactics a long time ago.
+(İkili, uzun zaman önce koçluk taktikleri konusunda anlaşmazlığa düştü.)
+
+fight it out (/fight out something):
+​to fight, argue or compete until an argument or competition has been settled
+or there is only one or a few of that thing
+Although they were both exhausted, the two armies fought it out until dawn.
+Fight it out among yourselves which of you is to go.
+There's only one ticket so you'll have to fight it out between you.
+The conflict is still being fought out.
+
+fight back:
+It is time to fight back against street crime.
+Don't let them bully you. Fight back!
+(Sana zorbalık yapmalarına izin verme. Diren!)
+You’ve seen him fight back every time he’s been unfairly attacked.
+(Haksız yere saldırıya uğradığı her seferinde karşılık verdiğini gördünüz.)
+Jones has denied the charge and has fought back publicly.
+(Jones suçlamayı reddetti ve alenen karşı çıktı.)
+2. fight something  back/down:
+​to try hard not to do or show something, especially not to show strong emotion:
+She fought back the tears as she watched her brother go.
+(Ağabeyinin gidişini izlerken gözyaşlarını tutamadı.)
+He fought down his disgust. (Tiksintisini bastırdı.)
+
+figure out: to finally understand
+It took them ages to figure out how to assemble the chest of drawers. how
+I’ve never been able to figure her out.
+I'm trying to figure out a way to make this work. a way
+to calculate an amount:
+Have you figured out how much the trip will cost?
+It is difficult to access funding before the elements of an outline business plan have been figured out.
+(Taslak bir iş planının unsurları belirlenmeden önce finansmana erişmek zordur.)
+note: figure out implies some investigation of an issue, whereas understand refers to the  result not the method.
+
+
+
+
+I made up a story to explain why I had not been at work and he fell for it.
+"Lend me a fiver and I'll buy you a drink." "Oh no, I'm not falling for that one."
+He has fallen for your sister in a big way.
+She always falls for older men.
+Sales have been falling off recently.
+Attendance at my lectures has fallen off considerably.
+We have seen a dramatic falloff of demand in the final quarter.
+I finally found my phone. It must have fallen off the bed.
+Her baby teeth are starting to fall out.
+A side effect of the treatment is that your hair starts to fall out.
+A few pages fell out of the book. 
+Have you and Sam fallen out with each other again? 
+He left home after falling out with his parents over his ex-girlfriend.
+The two fell out over coaching tactics a long time ago.
+Although they were both exhausted, the two armies fought it out until dawn.
+Fight it out among yourselves which of you is to go.
+There's only one ticket so you'll have to fight it out between you.
+The conflict is still being fought out.
+It is time to fight back against street crime.
+Don't let them bully you. Fight back!
+You’ve seen him fight back every time he’s been unfairly attacked.
+Jones has denied the charge and has fought back publicly.
+She fought back the tears as she watched her brother go.
+He fought down his disgust.
+It took them ages to figure out how to assemble the chest of drawers. 
+I’ve never been able to figure her out.
+I'm trying to figure out a way to make this work. 
+Have you figured out how much the trip will cost?
+It is difficult to access funding before the elements of an outline business plan have been figured out. (29)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. 
+
+fill in/fill out/(fill):
+Have you filled in your tax form yet?
+To order, fill out the coupon on p 54.
+more about 'fill out':
+​to become larger, rounder or fatter (tamamlamak anlamı taşıyor)
+When John is older and fills out some, he’ll be an outstanding athlete.
+The school district's student population has filled out over the past decade.
+more about 'fill in':
+​to fill something like hole completely (like hole_re)
+The hole has been filled in.
+I filled in the crack with caulk, thereby eliminating the crack.
+fill: The man was so big that he completely filled the hole. (boşluklar var)
+​to spend time doing something while waiting for something more important
+She had several cups of coffee at the cafeteria to fill in the time until the train left.
+to add or put in (whatever is needed to make something complete)
+Now that we know in general what happened, we need to fill in the details.
+to do another person’s job temporarily
+She will fill in for him while he's at the conference. for
+to tell someone the missing information
+Could you fill me in on what's going on?
+
+fill up:
+I stopped at the gas station to fill up my tank.
+Fill the bottle up with as much as it will take. with
+
+find out: öğrenmek (_re)
+Her parents found out that she had a boyfriend.
+Visit our website to find out more.
+Can you find out what time the meeting starts?
+I don’t want anyone else to find out about this. about
+find somebody out: to discover that somebody has done something wrong
+He had been stealing from the company for years, but eventually they found him out.
+
+finish off: bitirmek, tamamlamak
+işin tamamını bitirmek için 'finish' kullanıyoruz.
+We may as well finish off this wine - there's only a little bit left.
+Can you finish off this crossword for me? I'm stuck.
+inf. The hunter moved in to finish the animal off.
+(Avcı, hayvanın işini bitirmek için harekete geçti.)
+inf. A third heart attack finally finished off the old man.
+
+finish up: 1. to finally be in a particular place, state, or situation, usually without having planned it  
+2. sonunda …-e varmak/düşmek, sonunda…olmak  3. to use, eat etc the last of; to finish
+I only went for two days, but finished up staying for a week.
+It was no surprise to me when he finished up in jail. in
+You'll finish up dead if you carry on drinking like that. 
+Finish up your meal as quickly as possible.
+
+fire away:
+inf. ‘I've got a few questions.’ ‘OK then, fire away.’
+inf. So if anybody has any questions, please fire away.
+
+follow through: to finish something that you have started
+related noun: follow-through
+also a sports term
+He didn't follow through with his promise to help.
+(Yardım etme sözünü yerine getirmedi.)
+They made a good start at improving prison conditions, but unless there’s follow-through, the reforms won’t last.
+(Hapishane koşullarını iyileştirmek için iyi bir başlangıç yaptılar, ancak devam etmedikçe reformlar uzun sürmeyecek.)
+
+
+
+
+Have you filled in your tax form yet?
+To order, fill out the coupon on p 54.
+When John is older and fills out some, he’ll be an outstanding athlete.
+The school district's student population has filled out over the past decade.
+The hole has been filled in.
+I filled in the crack with caulk, thereby eliminating the crack.
+The man was so big that he completely filled the hole.
+She had several cups of coffee at the cafeteria to fill in the time until the train left.
+Now that we know in general what happened, we need to fill in the details.
+She will fill in for him while he's at the conference. 
+Could you fill me in on what's going on?
+I stopped at the gas station to fill up my tank.
+Fill the bottle up with as much as it will take.
+Her parents found out that she had a boyfriend.
+Visit our website to find out more.
+Can you find out what time the meeting starts?
+I don’t want anyone else to find out about this. 
+He had been stealing from the company for years, but eventually they found him out.
+We may as well finish off this wine - there's only a little bit left.
+Can you finish off this crossword for me? I'm stuck.
+The hunter moved in to finish the animal off.
+A third heart attack finally finished off the old man.
+I only went for two days, but finished up staying for a week.
+It was no surprise to me when he finished up in jail. 
+You'll finish up dead if you carry on drinking like that. 
+Finish up your meal as quickly as possible.
+‘I've got a few questions.’ ‘OK then, fire away.’
+So if anybody has any questions, please fire away.
+He didn't follow through with his promise to help.
+They made a good start at improving prison conditions, but unless there’s follow-through, the reforms won’t last. (30)
+
+
+
+
+Have you ____________ your tax form yet?
+To order, ____________ the coupon on p 54.
+When John is older and ____________ some, he’ll be an outstanding athlete.
+The school district's student population has ____________ over the past decade.
+The hole has been  ____________.
+I ____________ the crack with caulk, thereby eliminating the crack.
+The man was so big that he completely ____________ the hole.
+She had several cups of coffee at the cafeteria to ____________ the time until the train left.
+Now that we know in general what happened, we need to ____________ the details.
+She will ____________  for him while he's at the conference. 
+Could you _________ me _________ on what's going on?
+I stopped at the gas station to ____________ my tank.
+__________ the bottle __________ with as much as it will take.
+Her parents ____________ that she had a boyfriend.
+Visit our website to____________ more.
+Can you ____________ what time the meeting starts?
+I don’t want anyone else to____________ about this. 
+He had been stealing from the company for years, but eventually they __________ him __________.
+We may as well ____________ this wine - there's only a little bit left.
+Can you ____________ this crossword for me? I'm stuck.
+The hunter moved in to __________ the animal __________.
+A third heart attack finally ____________ the old man.
+I only went for two days, but ____________ staying for a week.
+It was no surprise to me when he ____________ in jail. 
+You'll ____________ dead if you carry on drinking like that. 
+____________ your meal as quickly as possible.
+‘I've got a few questions.’ ‘OK then, ____________.’
+So if anybody has any questions, please ____________.
+He didn't ____________ with his promise to help.
+They made a good start at improving prison conditions, but unless there’s ____________, the reforms won’t last.
+
+
+
+
+
+
+
+
+
+
+17.
+
+fool around: UK also fool about
+                         oynamak, oyalanmak, kendini oyalamak
+                         Stop fooling around - this is serious!
+                         to behave in a silly way, especially in a way that might have dangerous results:
+                         Don't fool around with matches.
+freak out: freak (someone) out
+                    She freaked out when she saw a huge spider in the bath.
+                    This song just freaks me out whenever I hear it.
+get along: geçinmek, anlaşmak, uyuşmak
+                    I don't really get along with my sister's husband.
+                    to deal with a situation, especially successfully
+                    I wonder how Michael's getting along in his new job?
+                    Acaba Michael yeni işinde nasıl gidiyor?
+get around: yasal boşluktan faydalanmak, yolunu bulmak
+                        duyulmak, yayılmak
+                        çok gezmek, birçok şeyle meşgul olmak
+                        Although tobacco ads are prohibited, companies get around the ban by sponsoring music shows.
+                        I don’t know how the story got around that she was leaving her job.
+                        İşinden ayrıldığına dair hikayenin nasıl yayıldığını bilmiyorum.
+                        Word is getting around that Germany is great place to work.
+                        Almanya'nın çalışmak için harika bir yer olduğuna dair söylentiler dolaşıyor.
+                        Spain last week and Germany this week - he gets around, doesn't he!
+                        He really gets around, doesn’t he!
+get at: 1. What are you getting at?
+             2. physically
+             The farm is very difficult to get at because it is so remote.
+             also 3. to point out (a person’s faults) or make fun of (a person)
+             uğraşmak, hata bulup durmak
+             He’s always getting at me.
+get away: kaçmak, kurtulmak
+                   We walked to the next beach to get away from the crowds.
+                   We decided to go up to Scotland to get away from it all (= have a relaxing holiday).
+
+
+
+
+
+
+
+Stop fooling around - this is serious!
+Don't fool around with matches.
+She freaked out when she saw a huge spider in the bath.
+This song just freaks me out whenever I hear it.
+I don't really get along with my sister's husband.
+I wonder how Michael's getting along in his new job?
+Although tobacco ads are prohibited, companies get around the ban by sponsoring music shows.
+I don’t know how the story got around that she was leaving her job.
+Word is getting around that Germany is great place to work.
+Spain last week and Germany this week - he gets around, doesn't he!
+He really gets around, doesn’t he!
+What are you getting at?
+The farm is very difficult to get at because it is so remote.
+He’s always getting at me.
+We walked to the next beach to get away from the crowds.
+We decided to go up to Scotland to get away from it all (= have a relaxing holiday). (16)
+
+
+Stop __________ - this is serious!
+Don't __________ with matches.
+She __________ when she saw a huge spider in the bath.
+This song just ________ me ________ whenever I hear it.
+I don't really__________ with my sister's husband.
+I wonder how Michael's __________ in his new job?
+Although tobacco ads are prohibited, companies____________ the ban by sponsoring music shows.
+I don’t know how the story ___________ that she was leaving her job.
+Word is __________ that Germany is great place to work.
+Spain last week and Germany this week - he __________, doesn't he!
+He really__________, doesn’t he!
+What are you ___________?
+The farm is very difficult to __________ because it is so remote.
+He’s always ___________ me.
+We walked to the next beach to ___________ from the crowds.
+We decided to go up to Scotland to ____________ from it all (= have a relaxing holiday).
+
+
+quiz 1.
+['She __________ when she saw a huge spider in the bath.',
+ 'This song just ________ me ________ whenever I hear it.',
+ 'Word is __________ that Germany is great place to work.',
+ 'Although tobacco ads are prohibited, companies____________ the ban by sponsoring music shows.',
+ 'We decided to go up to Scotland to ____________ from it all (= have a relaxing holiday).',
+ 'The farm is very difficult to __________ because it is so remote.',
+ "I don't really__________ with my sister's husband.",
+ 'He’s always ___________ me.',
+ "Spain last week and Germany this week - he __________, doesn't he!",
+ 'We walked to the next beach to ___________ from the crowds.',
+ 'Stop __________ - this is serious!',
+ 'I don’t know how the story ___________ that she was leaving her job.',
+ 'He really__________, doesn’t he!',
+ "I wonder how Michael's __________ in his new job?",
+ "Don't __________ with matches.",
+ 'What are you ___________?']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18.
+
+get away with:
+Everyone thinks he's guilty of the robbery, but it looks like he's going to get away with it.
+Do you think we could get away with just one coat of paint on that wall?
+She thought she could get away with cheating on her taxes.
+(Vergilerinden hile yaparak kurtulabileceğini düşünüyordu.)
+He was lucky to get away with only a fine.
+​to steal something and escape with it:
+Thieves got away with computer equipment worth $30 000.
+
+get back: 
+(not 'bring' in 2)
+When did you get back from Hawaii?
+Let's get back to the subject that we were discussing earlier.
+If you get back in time, you can come with us.
+(Zamanında geri dönersen bizimle gelebilirsin.)
+She was thrilled to get her old job back. (Eski işine geri dönmenin heyecanını yaşadı.)
+She took the dress back to the shop and tried to get her money back.
+You'll get your deposit back when you return the keys.
+The police told the crowd to get back to allow the ambulance through.
+
+get by: 
+(on/in/with something)
+I took the university exam and just barely got by. (Üniversite sınavına girdim ve zar zor geçtim.)
+We can get by with four computers at the moment, but we'll need a couple more when the new staff arrive. with
+I can just about get by in German (= I can speak basic German). (Almancayla ancak idare edebiliyorum.) in
+How can he get by on so little money? on
+There is tremendous pressure on families trying to get by without health insurance.
+(Sağlık sigortası olmadan geçinmeye çalışan aileler üzerinde büyük bir baskı var.)
+
+get in:
+They must have got in through the bathroom window.
+The minibus has a lift to help wheelchair users to get in.
+She got into law school at Duke.      ?
+among so many:
+to arrive at a place for vehicles
+What time is the plane expected to get in?
+to ask a trained person to house to do some paid work
+We'll have to get a plumber in to look at that water tank.
+(Su deposuna bakması için bir tesisatçı çağırmamız gerekecek.)
+​to manage to do or say something
+It's impossible to get a word in  because she was talking so much.
+I got in an hour's work while the baby was asleep.
+
+get on:
+(2nd meaning's used as 'get along' as well)
+Pay the driver as you get on.
+When he heard the news, Simon got on the next train to London.
+We're getting on much better now that we don't live together.
+We get on just fine together.
+Do you get on with your brother? with
+among many:
+​(also 'get along') to manage or deal with a situation, especially successfully:
+How are you getting on in your new home?
+How did you get on at the interview?
+He's getting on very well at school.
+
+get out: 
+I banged my head as I was getting out of the car. (Arabadan inerken kafamı çarptım.)
+A team of commandos got the hostages out from the rebel base.
+We don't get out much since we had the children.
+Were the doctors able to get that piece of glass out of his foot?
+among some:
+​to become known
+If this gets out there'll be trouble.
+I don't want it to get out that I'm leaving before I've had a chance to tell Anthony.
+to make a product, book, etc. available to buy:
+He's got two new CDs out.
+Will we get the book out by the end of the year?
+
+
+
+
+
+
+
+
+
+Everyone thinks he's guilty of the robbery, but it looks like he's going to get away with it.
+Do you think we could get away with just one coat of paint on that wall?
+She thought she could get away with cheating on her taxes.
+He was lucky to get away with only a fine.
+Thieves got away with computer equipment worth $30 000.
+When did you get back from Hawaii?
+Let's get back to the subject that we were discussing earlier.
+If you get back in time, you can come with us.
+She was thrilled to get her old job back.
+She took the dress back to the shop and tried to get her money back.
+You'll get your deposit back when you return the keys.
+The plice told the crowd to get back to allow the ambulance through.
+I took the university exam and just barely got by. 
+We can get by with four computers at the moment, but we'll need a couple more when the new staff arrive. 
+I can just about get by in German (= I can speak basic German). 
+How can he get by on so little money? 
+There is tremendous pressure on families trying to get by without health insurance.
+They must have got in through the bathroom window.
+The minibus has a lift to help wheelchair users to get in.
+She got into law school at Duke.
+What time is the plane expected to get in?
+to ask a trained person to house to do some paid work
+We'll have to get a plumber in to look at that water tank.
+It's impossible to get a word in  because she was talking so much.
+I got in an hour's work while the baby was asleep.
+Pay the driver as you get on.
+When he heard the news, Simon got on the next train to London.
+We're getting on much better now that we don't live together.
+We get on just fine together.
+Do you get on with your brother? 
+How are you getting on in your new home?
+How did you get on at the interview?
+He's getting on very well at school.
+I banged my head as I was getting out of the car.
+A team of commandos got the hostages out from the rebel base.
+We don't get out much since we had the children.
+Were the doctors able to get that piece of glass out of his foot?
+If this gets out there'll be trouble.
+I don't want it to get out that I'm leaving before I've had a chance to tell Anthony.
+He's got two new CDs out.
+Will we get the book out by the end of the year? (41)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19.
+
+get over:
+You will get over the illness more quickly if you relax.
+She never completely got over the loss of her first child.
+She can't get over her shyness.
+We need to get over to the village before it gets dark.
+​to make something clear to somebody
+We must get our message over to the general public.
+(informal)(with with) to complete something unpleasant but necessary
+I’m not looking forward to this meeting, but let’s get it over (with).
+I'll be glad to get the exam over and done with. and done with
+
+be/get rid of:
+kurtulmak
+Try and get rid of your visitors before I get there.
+We finally got rid of my little sister by telling her scary stories.
+I’m rid of my debts at last.
+
+get round:
+1. and 3. also get around
+When news of this tax scandal gets round, his career in politics will be finished.
+We can easily get round these few difficulties.
+We got round the pets problem by asking help from a proffesional company.
+A clever lawyer might find a way of getting round that clause.
+She can always get round her grandfather by giving him a big smile.
+
+get through:
+We need to conserve our supplies so we can get through the winter.
+My friendship with Carla got me through those tough months just after we moved.
+I tried phoning her several times, but I couldn’t get through.
+Thousands of refugees will die if these supplies don't get through to them.
+This blade isn't sharp enough to get through such a thick material.
+among some:
+​to use up a large amount of something (US go through)
+We got through a fortune while we were in New York!
+He was getting through 40 cigarettes a day before he decided to quit.
+She gets through ten bars of chocolate each week.
+
+get to:
+I got to her on the telephone and told her what to do.
+(Kendisine telefonla ulaştım ve ne yapması gerektiğini anlattım.)
+We met in a pub with old friends and got to reminiscing about college days.
+You’re getting to be just like your mother. 
+He got to be first man to walk on the surface of the moon.
+I never get to see her now that she’s moved to California.
+I’d like to get to know you better – could we have dinner sometime?
+used when you want to know where people or things are:
+Where can my shoes have got to? I can't find them anywhere.
+He always disappears at this time on a Friday, but I don't know where he gets to.
+Where's Annabel got to? She should be here by now.
+Inf. to annoy or affect, in someone:
+The heat was beginning to get to me so I went indoors.
+I know he's annoying, but you shouldn't let him get to you.
+
+get together: 
+This is the only website where bikers from all over the world can get together.
+Shall we get together on Friday and go for a drink or something?
+Management should get together with the union.
+Inf: to start a romantic relationship:
+She got together with Paul two years ago.
+Is it rude of me to ask when you guys got it together?
+Noun: get-together:
+She went home for a family get-together over the weekend.
+
+
+
+
+
+
+You will get over the illness more quickly if you relax.
+She never completely got over the loss of her first child.
+She can't get over her shyness.
+We need to get over to the village before it gets dark.
+​to make something clear to somebody
+We must get our message over to the general public.
+I’m not looking forward to this meeting, but let’s get it over (with).
+I'll be glad to get the exam over and done with. and done with
+Try and get rid of your visitors before I get there.
+We finally got rid of my little sister by telling her scary stories.
+I’m rid of my debts at last.
+When news of this tax scandal gets round, his career in politics will be finished.
+We can easily get round these few difficulties.
+We got round the pets problem by asking help from a proffesional company.
+A clever lawyer might find a way of getting round that clause.
+She can always get round her grandfather by giving him a big smile.
+We need to conserve our supplies so we can get through the winter.
+My friendship with Carla got me through those tough months just after we moved.
+I tried phoning her several times, but I couldn’t get through.
+Thousands of refugees will die if these supplies don't get through to them.
+This blade isn't sharp enough to get through such a thick material.
+We got through a fortune while we were in New York!
+He was getting through 40 cigarettes a day before he decided to quit.
+She gets through ten bars of chocolate each week.
+I got to her on the telephone and told her what to do.
+We met in a pub with old friends and got to reminiscing about college days.
+You’re getting to be just like your mother. 
+He got to be first man to walk on the surface of the moon.
+I never get to see her now that she’s moved to California.
+I’d like to get to know you better – could we have dinner sometime?
+Where can my shoes have got to? I can't find them anywhere.
+He always disappears at this time on a Friday, but I don't know where he gets to.
+Where's Annabel got to? She should be here by now.
+The heat was beginning to get to me so I went indoors.
+I know he's annoying, but you shouldn't let him get to you.
+This is the only website where bikers from all over the world can get together.
+Shall we get together on Friday and go for a drink or something?
+Management should get together with the union.
+She got together with Paul two years ago.
+Is it rude of me to ask when you guys got it together?
+She went home for a family get-together over the weekend. (41)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20.
+
+give away: (Noun: giveaway)
+1st: or, at very low price
+2nd: intentionally as well, betray
+We have five copies of the book to give away.
+The furniture shop's offering three-piece suites at give-away prices
+I thought no one knew where I was, but my loud breathing gave me away.
+She gave away state secrets to the enemy.
+a situation in a game when a player's actions cause point to the other team:
+They chased the ball all over the field and pressured opponents into giveaways.
+It was supposed to be a surprise but the players gave the game away. the game
+
+give in:
+(give into doesn't have the same meaning and used rarely)
+He gave in to my suggestion after I had shown him the plans. to
+The government cannot be seen as giving in to terrorists' demands. to
+He nagged me so much for a new bike that eventually I gave in.
+(Yeni bir bisiklet almam için beni o kadar dırdır etti ki sonunda pes ettim.)
+If your application is rejected this year, don't give in. You can apply again next year.
+She had marks deducted for giving her essay in late. (Makalesini geç verdiği için notları düşürüldü.)
+Make sure you proofread the report and give it in by the submission deadline.
+
+give off:
+(doesn't have to be unpleasant)
+Substances such as ammonia give off heat when they dissolve.
+The flowers gave off a fragrant perfume.
+
+give out:
+3. old-fashioned, and especially information that is not true
+There were people at the entrance giving out leaflets.
+The paper napkins gave out, and we had to use paper towels.
+Food supplies will give out by the end of the week.
+The teacher gave out the exam papers to students.
+Fletcher gave it out that it was all part of a grand plan.
+It was given out that he had been shot while trying to escape.
+to stop working:
+At the end of the race his legs gave out and he collapsed on the ground.
+(Yarışın sonunda bacakları dayanamadı ve yere yığıldı.)
+The batteries are likely to give out soon.
+
+give up:
+After ten minutes trying to get the answer I gave up.
+She has a struggle trying to persuade the board to accept her proposal, but she's determined not to give up.
+(Yönetim kurulunu teklifini kabul etmeye ikna etmeye çalışırken zorlanıyor ama pes etmemeye kararlı.) (also: 's having hard time trying to..)
+I've promised her a holiday if she gives up smoking by next year. ing
+She seems to have given up all her old friends.
+The doctors had virtually given her up for dead, but she eventually recovered. for dead
+to stop owning, using, or claiming something:
+They were forced to give up their home because they couldn't pay the mortgage.
+He reluctantly gave up his motorbike when he could no longer afford to run it.
+He gave up his seat to a pregnant woman (= stood up to allow her to sit down). to
+We still haven't given up hope of finding her alive. hope of
+
+give up on:
+He used to try to get me to dress smartly but he's long since given up on me.
+Most people gave up on him when he dropped out, but he went back and earned his degree two years later.
+
+Note:
+There is a subtle difference between 'give in' and 'give up'  but they're largely interchangeable. 'give in'  refers to some outside pressure while in case of 'give up' the decision comes from within, so you give up because you no longer have the motivation to continue.
+
+
+
+
+We have five copies of the book to give away.
+The furniture shop's offering three-piece suites at give-away prices
+I thought no one knew where I was, but my loud breathing gave me away.
+She gave away state secrets to the enemy.
+They chased the ball all over the field and pressured opponents into giveaways.
+It was supposed to be a surprise but the players gave the game away.
+He gave in to my suggestion after I had shown him the plans. 
+The government cannot be seen as giving in to terrorists' demands. 
+He nagged me so much for a new bike that eventually I gave in.
+If your application is rejected this year, don't give in. You can apply again next year.
+She had marks deducted for giving her essay in late. 
+Make sure you proofread the report and give it in by the submission deadline.
+Substances such as ammonia give off heat when they dissolve.
+The flowers gave off a fragrant perfume.
+There were people at the entrance giving out leaflets.
+The paper napkins gave out, and we had to use paper towels.
+Food supplies will give out by the end of the week.
+The teacher gave out the exam papers to students.
+Fletcher gave it out that it was all part of a grand plan.
+At the end of the race his legs gave out and he collapsed on the ground.
+The batteries are likely to give out soon.
+After ten minutes trying to get the answer I gave up.
+She has a struggle trying to persuade the board to accept her proposal, but she's determined not to give up.
+I've promised her a holiday if she gives up smoking by next year. 
+She seems to have given up all her old friends.
+The doctors had virtually given her up for dead, but she eventually recovered. 
+They were forced to give up their home because they couldn't pay the mortgage.
+He reluctantly gave up his motorbike when he could no longer afford to run it.
+He gave up his seat to a pregnant woman (= stood up to allow her to sit down). 
+We still haven't given up hope of finding her alive. 
+He used to try to get me to dress smartly but he's long since given up on me.
+Most people gave up on him when he dropped out, but he went back and earned his degree two years later. (32)
+
+
+
+
+
+
+
+
+
+
+
+
+
+21.
+
+go after: 
+The dogs went after the cats down the alley.
+She left the room in tears so I went after her.
+(Gözyaşları içinde odadan çıktı, ben de peşinden gittim.)
+inf. Are you planning to go after Paul's job when he leaves?
+(Paul gittiğinde onun işinin peşine düşmeyi planlıyor musun?)
+
+go ahead:
+The festival is now going ahead as planned.
+also means to start:
+We've received permission to go ahead with the music festival in spite of opposition from local residents. with
+I got so fed up with waiting for him to do it that I just went ahead and did it myself.
+inf. "Could I ask you a rather personal question?" "Sure, go ahead."
+
+go down:
+He went down on his knees and begged for forgiveness.
+The plane went down (= fell to the ground because of an accident, bomb, etc.) ten minutes after take-off.
+Could I have a glass of water to help these pills go down (= to help me swallow them)?
+to reach or go as far as:
+Its roots can go down three metres.
+On summer evenings we would sit on the veranda and watch the sun go down.
+The temperature went down to minus ten last night. to
+He went down in my estimation when he started trying to be a singer as well as an actor.
+The swelling's gone down but there's still a lot of bruising.
+(Şişlik indi ama hala çok fazla morarma var.)
+​(computing) to stop working temporarily
+The system is going down in ten minutes.
+
+go for: yönelmek
+1. I think I'll go for the fruit salad.
+People tried to persuade him to go for a more gradual reform program.
+2. When the pollice officer looked away, the thief went for the door.
+(Polis memuru gözlerini kaçırınca hırsız kapıya yöneldi.)
+3. Watch out for that bull in the back field. He'll go for you if you get too close.
+She went for him with a knife. (Bıçakla onun üzerine gitti.)
+some others:
+​to apply to somebody/something
+What I said about Peter goes for you, too.
+(Peter hakkında söylediklerim senin için de geçerli.)
+They have a high level of unemployment—but the same goes for many other countries.
+​to go to a place and bring somebody/something back
+She's gone for some milk.
+​to put a lot of effort into something, so that you get or achieve something
+Go for it, John! You know you can beat him.
+
+go off:
+A few minutes later the bomb went off, destroying the vehicle.
+The lights went off in several villages because of the storm.
+I just grabbed my clothes and run out as soon as the fire alarm went off.
+Don't eat those leftovers. They're a week old and have definitely gone off.
+some others:
+to happen in a particular way:
+The protest march went off peacefully. (Protesto yürüyüşü olaysız bir şekilde sona erdi.)
+The meeting went off well. (Toplantı iyi geçti.)
+I went off beefburgers after I got food poisoning from a takeaway.
+I went off Peter when he said those dreadful things about Clare.
+
+go on:
+It's hard to know what goes on behind my back.
+
+
+
+
+The dogs went after the cats down the alley.
+She left the room in tears so I went after her.
+Are you planning to go after Paul's job when he leaves?
+The festival is now going ahead as planned.
+We've received permission to go ahead with the music festival in spite of opposition from local residents. 
+I got so fed up with waiting for him to do it that I just went ahead and did it myself.
+"Could I ask you a rather personal question?" "Sure, go ahead."
+He went down on his knees and begged for forgiveness.
+The plane went down (= fell to the ground because of an accident, bomb, etc.) ten minutes after take-off.
+Could I have a glass of water to help these pills go down (= to help me swallow them)?
+Its roots can go down three metres.
+On summer evenings we would sit on the veranda and watch the sun go down.
+The temperature went down to minus ten last night. 
+He went down in my estimation when he started trying to be a singer as well as an actor.
+The swelling's gone down but there's still a lot of bruising.
+The system is going down in ten minutes.
+I think I'll go for the fruit salad.
+People tried to persuade him to go for a more gradual reform program.
+When the pollice officer looked away, the thief went for the door.
+Watch out for that bull in the back field. He'll go for you if you get too close.
+She went for him with a knife.
+What I said about Peter goes for you, too.
+They have a high level of unemployment—but the same goes for many other countries.
+She's gone for some milk.
+Go for it, John! You know you can beat him.
+A few minutes later the bomb went off, destroying the vehicle.
+The lights went off in several villages because of the storm.
+I just grabbed my clothes and run out as soon as the fire alarm went off.
+Don't eat those leftovers. They're a week old and have definitely gone off.
+The protest march went off peacefully. 
+The meeting went off well. 
+I went off beefburgers after I got food poisoning from a takeaway.
+I went off Peter when he said those dreadful things about Clare.
+It's hard to know what goes on behind my back. (34)
+
+
+
+The dogs ____________ the cats down the alley.
+She left the room in tears so I ____________ her.
+Are you planning to ____________ Paul's job when he leaves?
+The festival is now ____________ as planned.
+We've received permission to ____________ with the music festival in spite of opposition from local residents. 
+I got so fed up with waiting for him to do it that I just ____________ and did it myself.
+"Could I ask you a rather personal question?" "Sure, ____________."
+He ____________ on his knees and begged for forgiveness.
+The plane ____________ (fell to the ground because of an accident, bomb, etc.) ten minutes after take-off.
+Could I have a glass of water to help these pills ____________ (to help me swallow them)?
+Its roots can ____________ three metres.
+On summer evenings we would sit on the veranda and watch the sun ____________.
+The temperature ____________ to minus ten last night. 
+He ____________ in my estimation when he started trying to be a singer as well as an actor.
+The swelling's ____________ but there's still a lot of bruising.
+The system ____________ in ten minutes.
+I think I'll ____________ the fruit salad.
+People tried to persuade him to ____________ a more gradual reform program.
+When the pollice officer looked away, the thief ____________ the door.
+Watch out for that bull in the back field. He'll ____________ you if you get too close.
+She ____________ him with a knife.
+What I said about Peter ____________ you, too.
+They have a high level of unemployment—but the same ____________ many other countries.
+She's ____________ some milk.
+____________ it, John! You know you can beat him.
+A few minutes later the bomb ____________, destroying the vehicle.
+The lights ____________ in several villages because of the storm.
+I just grabbed my clothes and run out as soon as the fire alarm ____________.
+Don't eat those leftovers. They're a week old and have definitely ____________.
+The protest march ____________ peacefully. 
+The meeting ____________ well. 
+I ____________ beefburgers after I got food poisoning from a takeaway.
+I ____________ Peter when he said those dreadful things about Clare.
+It's hard to know what ____________ behind my back. 
+
+
+
+quiz.1
+'I ____________ Peter when he said those dreadful things about Clare.',
+ "Watch out for that bull in the back field. He'll ____________ you if you get too close.",
+ 'When the pollice officer looked away, the thief ____________ the door.',
+ 'Its roots can ____________ three metres.',
+ '____________ it, John! You know you can beat him.',
+ 'I just grabbed my clothes and run out as soon as the fire alarm ____________.',
+ 'People tried to persuade him to ____________ a more gradual reform program.',
+ "Don't eat those leftovers. They're a week old and have definitely ____________.",
+ 'I ____________ beefburgers after I got food poisoning from a takeaway.',
+ 'They have a high level of unemployment—but the same ____________ many other countries.',
+ 'Could I have a glass of water to help these pills ____________ (to help me swallow them)?',
+ "We've received permission to ____________ with the music festival in spite of opposition from local residents. ",
+ 'The protest march ____________ peacefully. ',
+ "She's ____________ some milk.",
+ 'He ____________ on his knees and begged for forgiveness.',
+ 'The festival is now ____________ as planned.',
+ 'What I said about Peter ____________ you, too.',
+ 'A few minutes later the bomb ____________, destroying the vehicle.',
+ 'On summer evenings we would sit on the veranda and watch the sun ____________.',
+ "I think I'll ____________ the fruit salad.",
+ "The swelling's ____________ but there's still a lot of bruising.",
+ 'She ____________ him with a knife.',
+ 'The plane ____________ (fell to the ground because of an accident, bomb, etc.) ten minutes after take-off.',
+ 'The temperature ____________ to minus ten last night. ',
+ 'I got so fed up with waiting for him to do it that I just ____________ and did it myself.',
+ 'The system ____________ in ten minutes.',
+ 'She left the room in tears so I ____________ her.',
+ '"Could I ask you a rather personal question?" "Sure, ____________."',
+ "It's hard to know what ____________ behind my back. ",
+ 'The dogs ____________ the cats down the alley.',
+ 'The meeting ____________ well. ',
+ "Are you planning to ____________ Paul's job when he leaves?",
+ 'He ____________ in my estimation when he started trying to be a singer as well as an actor.',
+ 'The lights ____________ in several villages because of the storm.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22.
+
+grow up:
+He immigrated with his parents in 1895, and grew up in Long Island.
+I’m going to be a train driver when I grow up.
+My agent said, "That's the way you were writing 15 years ago - grow up!"
+
+hand in:
+You must all hand in your projects by the end of next week.
+I handed the watch in to the police. to
+
+hand out:
+I work at the dining hall handing out food to the staff.
+They were handing out leaflets in the street.
+inf. He's always handing out advice to people.
+
+hand over:
+We know you have the jewels, so hand them over.
+Give it back now! She won't hand over my book, Mum!
+Insist on a legally binding contract before handing over a deposit.
+When I retire I will hand over this empire to my youngest son. to
+If you hold on a moment I'll hand you over to someone who might be able to help. to
+
+hang around/out:  
+I often used to hang out in shopping malls without actually buying something.
+I thought I'd hang around for a while and see if she comes.
+I don't know why he hangs out with James, they've got nothing in common.
+They enjoyed hanging out with each other when they were kids.
+Go and pack but don't hang around. We have to go in an hour.
+Note: To hang around means to stay somewhere, but there is a possibility of negative connotations, while 
+the other does not have. Also, hang around can be used with a person, but it usually is used for hanging around a place.
+hang around oyalanmak, hang out takılmak gibi _re
+
+hang in there:
+I konow you're worried but hang in there. The doctor will come soon.
+Work can get tough in the middle of a term but hang in there and it'll be OK.
+  
+
+
+
+
+
+
+He immigrated with his parents in 1895, and grew up in Long Island.
+I’m going to be a train driver when I grow up.
+My agent said, "That's the way you were writing 15 years ago - grow up!"
+You must all hand in your projects by the end of next week.
+I handed the watch in to the police. 
+I work at the dining hall handing out food to the staff.
+They were handing out leaflets in the street.
+He's always handing out advice to people.
+We know you have the jewels, so hand them over.
+Give it back now! She won't hand over my book, Mum!
+Insist on a legally binding contract before handing over a deposit.
+When I retire I will hand over this empire to my youngest son. 
+If you hold on a moment I'll hand you over to someone who might be able to help. 
+I often used to hang out in shopping malls without actually buying something.
+I thought I'd hang around for a while and see if she comes.
+I don't know why he hangs out with James, they've got nothing in common.
+They enjoyed hanging out with each other when they were kids.
+Go and pack but don't hang around. We have to go in an hour.
+I konow you're worried but hang in there. The doctor will come soon.
+Work can get tough in the middle of a term but hang in there and it'll be OK. (20)
+
+
+
+
+
+
+He immigrated with his parents in 1895, and ______________ in Long Island.
+I’m going to be a train driver when I ______________.
+My agent said, "That's the way you were writing 15 years ago,  ______________!"
+You must all ______________ your projects by the end of next week.
+I _________ the watch _________ to the police. 
+I work at the dining hall ______________ food to the staff.
+They were ______________ leaflets in the street.
+He's always ______________ advice to people.
+We know you have the jewels, so _________ them _________.
+Give it back now! She won't ______________ my book, Mum!
+Insist on a legally binding contract before ______________ a deposit.
+When I retire I will ______________ this empire to my youngest son. 
+If you hold on a moment I'll _________ you _________ to someone who might be able to help. 
+I often used to ______________ in shopping malls without actually buying something.
+I thought I'd ______________ for a while and see if she comes.
+I don't know why he ______________ with James, they've got nothing in common.
+They enjoyed ______________ with each other when they were kids.
+Go and pack but don't ______________. We have to go in an hour.
+I konow you're worried but ______________. The doctor will come soon.
+Work can get tough in the middle of a term but ______________ and it'll be OK. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23.
+
+hang on:
+beklemek, tutmak, tutunmak, dayanmak
+Hang on—I'm not quite ready.
+Now hold on, Ed, that wasn't what we agreed at all!
+Hang on tight - it's going to be a very bumpy ride. tight
+(Sıkı tutunun, çok inişli çıkışlı bir yolculuk olacak.)
+It’s very windy—you’d better hold on to your hat. to
+You helped me to hold on at times when I didn't think I could even go on trying.
+Can you hold on for just a few more minutes? Then you can take a break.
+
+hang up:
+She said she'd call me again and hung up on me.  on
+After I hung up I remembered what I'd wanted to say.
+also, among some: asmak
+Hang up your coat on one of those pegs. on
+
+hold out:
+The city is still holding out against rebel troops. against
+(Şehir hala isyancı birliklere karşı direniyor.)
+We can stay here for as long as our supplies hold out.
+The sensors are designed to work as long as their batteries hold out.
+3. to put your hand or arms, or something in your hand, towards somebody, especially to give or offer something
+I held out my hand to steady her. (Onu sakinleştirmek için elimi uzattım.)
+He held out the keys and I took them.
+
+hold up:
+Traffic was held up for several hours by the accident.
+The project was held up by various legal problems.
+(Proje çeşitli hukuki sorunlar nedeniyle sekteye uğradı.)
+Come on, let's go. What's the hold-up? (Hadi gidelim. Ne bekliyorsun?)
+They held the same bank up twice in one week.
+to stay strong or well:
+The real estate market held up despite a lack of consumer confidence.
+She is holding up well despite her problems.
+​to use or present somebody/something as an example
+She's always holding up her children as models of good behaviour.
+His ideas were held up to ridicule. (His ideas were held up to ridicule.)
+proved to be true:
+The evidence may not hold up in court. (Kanıtlar mahkemede geçerli olmayabilir.)
+
+hunt down: (sb)
+Detectives have finally managed to hunt down the thieves.
+- hunt sth down/out: (same meaning)
+I hunted out my old school photos to show Mary.
+
+keep off/out/away: 
+uzak durmak
+Put a cloth over the salad to keep the flies off.
+I prefer to keep out of arguments about money. of
+You should keep your personal life out of your work.
+Keep away from the edge of the cliff.
+
+
+
+
+
+
+Hang on—I'm not quite ready.
+Now hold on, Ed, that wasn't what we agreed at all!
+Hang on tight - it's going to be a very bumpy ride. tight
+It’s very windy—you’d better hold on to your hat. 
+You helped me to hold on at times when I didn't think I could even go on trying.
+Can you hold on for just a few more minutes? Then you can take a break.
+She said she'd call me again and hung up on me.  
+After I hung up I remembered what I'd wanted to say.
+Hang up your coat on one of those pegs. 
+The city is still holding out against rebel troops. 
+We can stay here for as long as our supplies hold out.
+The sensors are designed to work as long as their batteries hold out.
+I held out my hand to steady her. 
+He held out the keys and I took them.
+Traffic was held up for several hours by the accident.
+The project was held up by various legal problems.
+Come on, let's go. What's the hold-up?
+They held the same bank up twice in one week.
+The real estate market held up despite a lack of consumer confidence.
+She is holding up well despite her problems.
+She's always holding up her children as models of good behaviour.
+His ideas were held up to ridicule. 
+The evidence may not hold up in court.
+Detectives have finally managed to hunt down the thieves.
+I hunted out my old school photos to show Mary.
+Put a cloth over the salad to keep the flies off.
+I prefer to keep out of arguments about money. 
+You should keep your personal life out of your work.
+Keep away from the edge of the cliff. (29)
+
+
+
+
+
+
+
+
+
+
+
+
+
+24.
+
+keep up with:
+He started to walk faster and the children had to run to keep up.
+He talks so fast, I can't keep up with what he's saying.
+He’s never made an effort to keep up with current events.
+Supply of the goods is failing to keep up with demand.
+​to continue to be in contact with somebody:
+How many of your old school friends do you keep up with?
+​to continue to pay or do something regularly:
+They are struggling to keep up with the mortgage repayments.
+
+knock down:
+She was knocked down by a bus.
+He knocked his opponent down three times in the first round.
+​(informal) to persuade somebody to reduce the price of something:
+I managed to knock him down to $400.
+​to destroy a building by breaking its walls:
+These old houses are going to be knocked down.
+Maybe we should knock this wall down and enlarge the living room.
+
+let down:  
+You will be there tomorrow - you won't let me down, will you?
+When I was sent to prison, I really felt I had let my parents down.
+This machine won't let you down. (Bu makine sizi yarı yolda bırakmayacak.)
+
+line up:
+The photographer lined the family members up for a picture.
+The suspects were lined up against the wall.
+He lined the bottles up along the shelf.
+To get good TV reception, the dish must be accurately lined up with the satellite.
+(İyi bir TV yayını alabilmek için antenin uydu ile doğru şekilde hizalanması gerekir.)
+to organize or arrange for something:
+Have you lined up a band to play at the party?
+I've got a lot lined up this week (= I'm very busy).
+
+lock down:
+If you lock down your computer properly, it is very difficult for other people to access it.
+They locked him down for life after the murders.
+also, karantina uygulamak:
+Those states which locked down most effectively and almost eliminated the virus have done best economically.
+
+look after:
+We look after the neighbours' cat while they're away.
+If you look after your clothes they last a lot longer.
+Don't worry about Mia - she can look after herself.
+I'm looking after his affairs while he's in hospital.
+He's good at looking after his own interests.
+(Kendi çıkarlarını gözetme konusunda iyidir.)
+
+
+
+
+
+
+He started to walk faster and the children had to run to keep up.
+He talks so fast, I can't keep up with what he's saying.
+He’s never made an effort to keep up with current events.
+Supply of the goods is failing to keep up with demand.
+How many of your old school friends do you keep up with?
+They are struggling to keep up with the mortgage repayments.
+She was knocked down by a bus.
+He knocked his opponent down three times in the first round.
+I managed to knock him down to $400.
+These old houses are going to be knocked down.
+Maybe we should knock this wall down and enlarge the living room.
+You will be there tomorrow - you won't let me down, will you?
+When I was sent to prison, I really felt I had let my parents down.
+This machine won't let you down. 
+The photographer lined the family members up for a picture.
+The suspects were lined up against the wall.
+He lined the bottles up along the shelf.
+To get good TV reception, the dish must be accurately lined up with the satellite.
+Have you lined up a band to play at the party?
+I've got a lot lined up this week (= I'm very busy).
+If you lock down your computer properly, it is very difficult for other people to access it.
+They locked him down for life after the murders.
+Those states which locked down most effectively and almost eliminated the virus have done best economically.
+We look after the neighbours' cat while they're away.
+If you look after your clothes they last a lot longer.
+Don't worry about Mia - she can look after herself.
+I'm looking after his affairs while he's in hospital.
+He's good at looking after his own interests. (28)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25.
+
+look down on: 
+küçümsemek, tepeden bakmak
+Homeowners sometimes look down on servants.
+He looks down on people who haven't been to college.
+
+look forward:
+(with feeling plesure)
+I look forward to hearing from you. (Cevabınızı sabırsızlıkla bekliyorum.) to, ing
+I'm looking forward to Christmas this year. to
+
+look into:
+to examine the facts about a problem or situation
+We're looking into buying a new computer.
+He looked into hiring another secretary, but it would have been too expensive.
+We're looking into the possibility of getting to New York for her wedding.
+
+look out for:
+Look out for Anna while you're there. (Oradayken Anna'ya dikkat et.)
+I'm just trying to look out for my kids, that's all.
+(Sadece çocuklarıma göz kulak olmaya çalışıyorum, hepsi bu.)
+You should look out for pickpockets. (Yankesicilere dikkat etmelisiniz.)
+Do look out for spelling mistakes in your work.
+The police have warned shopkeepers to look out for forged notes.
+(Polis, esnafı sahte banknotlara karşı dikkatli olmaları konusunda uyardı.)
+
+look up:
+You may have to look up the meaning of this word in the dictionary. in
+Can you look up the opening times on the website? on
+Our financial situation is looking up at last. (Maddi durumumuz nihayet düzeliyor.)
+to raise your eyes when you are looking down at something:
+She looked up from her book as I entered the room. from
+She looked up at me sharply when I said that.
+to visit someone you have not seen for a long time when you are visiting the place where they live:
+Do look me up the next time you're in London.
+
+look up to:
+hayranlık duymak, örnek almak
+opposite of 'look down on'
+School children usually look up to great scientists.
+Tell us about a person you admire and look up to.
+Teen girls often look up to actresses as role models, and many want to become one when they get older.
+
+
+
+
+
+
+
+Homeowners sometimes look down on servants.
+He looks down on people who haven't been to college.
+I look forward to hearing from you. 
+I'm looking forward to Christmas this year. 
+We're looking into buying a new computer.
+He looked into hiring another secretary, but it would have been too expensive.
+We're looking into the possibility of getting to New York for her wedding.
+Look out for Anna while you're there. 
+I'm just trying to look out for my kids, that's all.
+You should look out for pickpockets. 
+Do look out for spelling mistakes in your work.
+The police have warned shopkeepers to look out for forged notes.
+You may have to look up the meaning of this word in the dictionary. 
+Can you look up the opening times on the website? 
+Our financial situation is looking up at last. 
+to raise your eyes when you are looking down at something:
+She looked up from her book as I entered the room. 
+She looked up at me sharply when I said that.
+Do look me up the next time you're in London.
+School children usually look up to great scientists.
+Tell us about a person you admire and look up to.
+Teen girls often look up to actresses as role models, and many want to become one when they get older. (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26.
+
+make up for/ make it up to sb: telafi etmek
+Her enthusiasm makes up for her lack of experience.
+I'm sorry we can't take you with us, but I promise I'll make it up to you somehow.
+
+make out: (among many)1. to see, hear, or understand sth or so with difficulty
+I could just make out a figure in the darkness.
+I can't make out your writing.
+She's a strange person - I can't make her out at all.
+2. to kiss and hold a person in a sexual way or have sex with someone
+Everyone at the party was making out or having sex.
+He had never made out with a virgin before. with
+3. ​to say that something is true when it may not be
+He made himself out to be a millionaire.
+The British weather is not always as bad as it is made out to be.
+
+make sense:
+Who would send me all these flowers? It makes no sense.
+It all made perfect sense to me.
+I can’t make sense of that painting.
+
+make up: uydurmak; barışmak; 3. oluş(tur)mak
+He made up some excuse about his daughter being sick. excuse
+I made up an excuse about having to look after the kids. excuse
+My dad was always really good at making up stories. story
+They kissed and made up, as usual.
+uk We often quarrel but we always make it up soon after.
+Car accident victims make up almost a quarter of the hospital's patients.
+
+name after:
+Paul was named after his grandfather.
+
+pass around (round also in uk):
+Take a copy for yourself and pass the rest around.
+(Kendiniz için bir kopya alın ve gerisini dağıtın.)
+Can you pass these pictures around for everyone to look at, please?
+
+
+
+
+
+Her enthusiasm makes up for her lack of experience.
+I'm sorry we can't take you with us, but I promise I'll make it up to you somehow.
+I could just make out a figure in the darkness.
+I can't make out your writing.
+She's a strange person - I can't make her out at all.
+Everyone at the party was making out or having sex.
+He had never made out with a virgin before. with
+He made himself out to be a millionaire.
+The British weather is not always as bad as it is made out to be.
+Who would send me all these flowers? It makes no sense.
+It all made perfect sense to me.
+I can’t make sense of that painting.
+He made up some excuse about his daughter being sick. 
+I made up an excuse about having to look after the kids. 
+My dad was always really good at making up stories. 
+They kissed and made up, as usual.
+uk We often quarrel but we always make it up soon after.
+Car accident victims make up almost a quarter of the hospital's patients.
+Paul was named after his grandfather.
+Take a copy for yourself and pass the rest around.
+Can you pass these pictures around for everyone to look at, please? (21)
+
+
+
+Her enthusiasm ____________ her lack of experience.
+I'm sorry we can't take you with us, but I promise I'll ___________ you somehow.
+I could just ____________ a figure in the darkness.
+I can't ____________ your writing.
+She's a strange person - I can't ________ her ________ at all.
+Everyone at the party was ___________ or having sex.
+He had never ____________ with a virgin before. with
+He ________ himself ________ to be a millionaire.
+The British weather is not always as bad as it is ____________ to be.
+Who would send me all these flowers? It ________ no ________.
+It all ________ perfect ________ to me.
+I can’t ____________ of that painting.
+He ____________ some excuse about his daughter being sick. 
+I ___________ an excuse about having to look after the kids. 
+My dad was always really good at ____________ stories. 
+They kissed and ___________, as usual.
+uk We often quarrel but we always ____________ soon after.
+Car accident victims ____________ almost a quarter of the hospital's patients.
+Paul was ____________ his grandfather.
+Take a copy for yourself and ________ the rest ________.
+Can you ________ these pictures ________ for everyone to look at, please?
+
+
+quiz.1
+['Everyone at the party was ___________ or having sex.',
+ 'Take a copy for yourself and ________ the rest ________.',
+ "I can't ____________ your writing.",
+ 'It all ________ perfect ________ to me.',
+ "I'm sorry we can't take you with us, but I promise I'll ___________ you somehow.",
+ 'Paul was ____________ his grandfather.',
+ "She's a strange person - I can't ________ her ________ at all.",
+ 'I could just ____________ a figure in the darkness.',
+ 'I can’t ____________ of that painting.',
+ 'The British weather is not always as bad as it is ____________ to be.',
+ 'I ___________ an excuse about having to look after the kids. ',
+ 'He ____________ some excuse about his daughter being sick. ',
+ 'My dad was always really good at ____________ stories. ',
+ 'Her enthusiasm ____________ her lack of experience.',
+ 'uk We often quarrel but we always ____________ soon after.',
+ 'Who would send me all these flowers? It ________ no ________.',
+ 'They kissed and ___________, as usual.',
+ 'He had never ____________ with a virgin before. with',
+ "Car accident victims ____________ almost a quarter of the hospital's patients.",
+ 'Can you ________ these pictures ________ for everyone to look at, please?',
+ 'He ________ himself ________ to be a millionaire.']
+
+
+
+
+
+
+
+
+
+
+28.
+
+pull through: atlatmak _re, başarmak, kurtarmak; atlatmasına yardımcı olmak
+They said the operation had been successful and they expected his wife to pull through.
+It's going to be tough but we'll pull through it together.
+He pulled the city through a financial crisis.
+
+pull up:
+He pulled up at the traffic lights.
+2. to get information, esp. on a computer screen:
+Click on a square to pull up an overview of the site with name, description, location, and domain.
+to tell someone that they have done something wrong:
+3. She's always pulling me up for/on/over my bad spelling.
+
+put away: 1. yerine koymak/kaldırmak
+She put her clothes away in the drawer.
+I'm just going to put the car away (= in the garage).
+2. [often passive] inf. 
+In the past, people who suffered from schizophrenia were often put away.
+
+put down: has so many meanings, just some:
+ (1) The meeting's on the 22nd. Put it down in your diary.
+Put that knife down before you hurt somebody!
+The military government is determined to put down all opposition.
+ (figurative) It's a great book. I couldn't put it down (= stop reading it).
+Did you have to put me down in front of everybody?
+(Beni herkesin önünde küçük düşürmek zorunda mıydın?)
+Shops are being forced to put their prices down in order to attract customers.
+
+put forward:
+Many suggestions have been put forward, but a decision is unlikely until after next year's general election.
+She has decided to put her name/put herself forward as a candidate.
+(Adını koymaya/kendini aday göstermeye karar verdi.)
+
+put off:
+The meeting has been put off for a week. for
+I've put off talking to him about this for far too long.
+He keeps asking me out, and I keep putting him off.
+(Bana çıkma teklif edip duruyor, ben de onu erteleyip duruyorum.)
+The nurse tried to put them off, saying that the visiting hours haven't started yet.
+Once she's made up her mind to do something, nothing will put her off.
+(Bir şeyi yapmaya karar verdiğinde, hiçbir şey onu vazgeçiremez.)
+The cheese looked nice, but the smell put me off.
+(Peynir güzel görünüyordu ama kokusu beni soğuttu.)
+The sudden flash of the camera put the players off their game. (dikkatini dağıtmak)
+
+
+
+
+They said the operation had been successful and they expected his wife to pull through.
+It's going to be tough but we'll pull through it together.
+He pulled the city through a financial crisis.
+He pulled up at the traffic lights.
+Click on a square to pull up an overview of the site with name, description, location, and domain.
+She's always pulling me up for/on/over my bad spelling.
+She put her clothes away in the drawer.
+I'm just going to put the car away (= in the garage).
+In the past, people who suffered from schizophrenia were often put away.
+The meeting's on the 22nd. Put it down in your diary. 
+Put that knife down before you hurt somebody!
+The military government is determined to put down all opposition.
+It's a great book. I couldn't put it down (= stop reading it).
+Did you have to put me down in front of everybody?
+Shops are being forced to put their prices down in order to attract customers.
+Many suggestions have been put forward, but a decision is unlikely until after next year's general election.
+She has decided to put her name/put herself forward as a candidate.
+The meeting has been put off for a week. 
+I've put off talking to him about this for far too long.
+He keeps asking me out, and I keep putting him off.
+The nurse tried to put them off, saying that the visiting hours haven't started yet.
+Once she's made up her mind to do something, nothing will put her off.
+The cheese looked nice, but the smell put me off.
+The sudden flash of the camera put the players off their game. (24)
+
+
+
+They said the operation had been successful and they expected his wife to _____________.
+It's going to be tough but we'll ____________ it together.
+He _________ the city _________ a financial crisis.
+He ____________ at the traffic lights.
+Click on a square to ____________ an overview of the site with name, description, location, and domain.
+She's always _________ me _________ for/on/over my bad spelling.
+She _________ her clothes _________ in the drawer.
+I'm just going to _________ the car _________ (= in the garage).
+In the past, people who suffered from schizophrenia were often ____________.
+The meeting's on the 22nd. _________ it _________ in your diary. 
+_________ that knife _________ before you hurt somebody!
+The military government is determined to ____________ all opposition.
+It's a great book. I couldn't _________ it _________ (= stop reading it).
+Did you have to _________ me _________ in front of everybody?
+Shops are being forced to _________ their prices _________ in order to attract customers.
+Many suggestions have been ____________, but a decision is unlikely until after next year's general election.
+She has decided to _________ her name/_________ herself _________ as a candidate.
+The meeting has been ____________ for a week. 
+I've ____________ talking to him about this for far too long.
+He keeps asking me out, and I keep _________ him _________.
+The nurse tried to _________ them _________, saying that the visiting hours haven't started yet.
+Once she's made up her mind to do something, nothing will _________ her _________.
+The cheese looked nice, but the smell _________ me _________.
+The sudden flash of the camera _________ the players _________ their game. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+30.
+
+run after:
+She ran after me to hand me some papers I'd dropped.
+She has spent her life running after fame and fortune.
+inf. He's always running after younger women.
+
+run away: kaçmak
+He ran away from home at the age of thirteen. from
+She accused him of running away from his responsibilities. from
+Looking at all the accusing faces, she felt a sudden urge to run away.
+
+run into: 
+We ran into thick fog on the way home.
+We ran into bad weather/debt/trouble.
+Graham ran into someone he used to know at school the other day.
+The bus went out of control and ran into a line of people.
+also to reach a particular cost or amount, as a total:
+The repairs will probably run into thousands of dollars.
+(Onarımlar muhtemelen binlerce doları bulacak.)
+
+run out (of sth):
+Time is running out for the trapped miners.
+(Kapana kısılmış madenciler için zaman daralıyor.)
+We ran out of fuel. (Yakıtımız bitti.)
+Could you get some milk? We seem to have run out.
+
+run over: çiğnemek; taşmak
+Don’t let the dog out of the garden or he’ll get run over.
+(Köpeğin bahçeden çıkmasına izin vermeyin, aksi halde ezilir.)
+The water/The bath is running over - quick, turn the taps off.
+We're starting to run over time, so could you keep your speeches short, please.
+also: gözden geçirmek
+They ran over the list to make sure there were no mistakes.
+
+scare away/off:
+They managed to scare the bears away. (Ayıları korkutmayı başardılar.)
+Don't make too much noise or you'll scare off the birds.
+(Çok fazla gürültü yapmayın yoksa kuşları korkutursunuz.)
+
+
+
+
+
+She ran after me to hand me some papers I'd dropped.
+She has spent her life running after fame and fortune.
+He's always running after younger women.
+He ran away from home at the age of thirteen. 
+She accused him of running away from his responsibilities. 
+Looking at all the accusing faces, she felt a sudden urge to run away.
+We ran into thick fog on the way home.
+We ran into bad weather/debt/trouble.
+Graham ran into someone he used to know at school the other day.
+The bus went out of control and ran into a line of people.
+The repairs will probably run into thousands of dollars.
+Time is running out for the trapped miners.
+We ran out of fuel.
+Could you get some milk? We seem to have run out.
+Don’t let the dog out of the garden or he’ll get run over.
+The water/The bath is running over - quick, turn the taps off.
+We're starting to run over time, so could you keep your speeches short, please.
+They ran over the list to make sure there were no mistakes.
+They managed to scare the bears away. 
+Don't make too much noise or you'll scare off the birds. (20)
+
+
+
+
+She ____________ me to hand me some papers I'd dropped.
+She has spent her life ____________ fame and fortune.
+He's always ____________ younger women.
+He ____________ from home at the age of thirteen. 
+She accused him of ____________ from his responsibilities. 
+Looking at all the accusing faces, she felt a sudden urge to ____________.
+We ____________ thick fog on the way home.
+We ____________ bad weather/debt/trouble.
+Graham ____________ someone he used to know at school the other day.
+The bus went out of control and ____________ a line of people.
+The repairs will probably ____________ thousands of dollars.
+Time is ____________ for the trapped miners.
+We ____________ fuel.
+Could you get some milk? We seem to have ____________.
+Don’t let the dog out of the garden or he’ll get ____________.
+The water/The bath is ____________ - quick, turn the taps off.
+We're starting to ____________ time, so could you keep your speeches short, please.
+They ____________ the list to make sure there were no mistakes.
+They managed to _________ the bears _________. 
+Don't make too much noise or you'll ____________ the birds.
+
+
+quiz 1.  
+'The bus went out of control and ____________ a line of people.',
+ 'She accused him of ____________ from his responsibilities. ',
+ 'She has spent her life ____________ fame and fortune.',
+ "He's always ____________ younger women.",
+ 'We ____________ bad weather/debt/trouble.',
+ 'Looking at all the accusing faces, she felt a sudden urge to ____________.',
+ 'Don’t let the dog out of the garden or he’ll get ____________.',
+ 'He ____________ from home at the age of thirteen. ',
+ "Don't make too much noise or you'll ____________ the birds.",
+ 'The water/The bath is ____________ - quick, turn the taps off.',
+ 'We ____________ fuel.',
+ 'Could you get some milk? We seem to have ____________.',
+ 'Time is ____________ for the trapped miners.',
+ 'We ____________ thick fog on the way home.',
+ 'The repairs will probably ____________ thousands of dollars.',
+ "She ____________ me to hand me some papers I'd dropped.",
+ 'Graham ____________ someone he used to know at school the other day.',
+ 'They managed to _________ the bears _________. ',
+ 'They ____________ the list to make sure there were no mistakes.',
+ "We're starting to ____________ time, so could you keep your speeches short, please."
+ Californian FB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.
+
+see about: bakmak; halletmek
+I’ll see about movie times and call you back.
+(Sinema saatlerine bakacağım ve seni geri arayacağım.)
+It's getting late - I'd better see about lunch.
+You should see about getting your hair cut.
+
+see off: uğurlamak, geçirmek; kovmak
+He saw me off at the station.
+The caretaker ran out and saw off the boys who had been damaging the fence in no time.
+
+sell out:
+We sold out of the T-shirts in the first couple of hours.
+We couldn't get seats - the concert was sold out.
+He wouldn't sell out the cause to serve his own interests.
+(Kendi çıkarları için davayı satmazdı.)
+also: to sell your business or a part of your business
+The company eventually sold out to a multinational media group.
+
+set off:
+We set off for London just after ten. for
+The court's initial verdict in the police officers' trial set off serious riots.
+Terrorists set off a bomb in the city centre.
+Opening this door will set off the alarm.
+also: ​to make something more attractive or easy to notice by being placed near it
+That blouse sets off the blue of her eyes.
+(O bluz gözlerinin mavisini ortaya çıkarıyor.)
+
+settle down:
+Come on all of you, stop talking and settle down please!
+They settled down on the sofa to watch the film.
+It always takes the class a while to settle down at the start of the lesson.
+The early goal settled the home side down.
+(Erken gelen gol ev sahibini rahatlattı.)
+Has she settled down in her new job?
+Eventually I'd like to settle down and have a family, but not yet.
+
+show off: 
+She likes to wear short skirts to show off her legs.
+That shirt shows off the color of your eyes.
+2.gösteriş yapmak, hava atmak (noun show-off a person who does this)
+She only bought that sports car to show off and prove she could afford one.
+(O spor arabayı sadece gösteriş yapmak ve parasının yeteceğini kanıtlamak için aldı.)
+
+
+
+I’ll see about movie times and call you back.
+It's getting late - I'd better see about lunch.
+You should see about getting your hair cut.
+He saw me off at the station.
+The caretaker ran out and saw off the boys who had been damaging the fence in no time.
+We sold out of the T-shirts in the first couple of hours.
+We couldn't get seats - the concert was sold out.
+He wouldn't sell out the cause to serve his own interests.
+The company eventually sold out to a multinational media group.
+We set off for London just after ten. 
+The court's initial verdict in the police officers' trial set off serious riots.
+Terrorists set off a bomb in the city centre.
+Opening this door will set off the alarm.
+That blouse sets off the blue of her eyes.
+Come on all of you, stop talking and settle down please!
+They settled down on the sofa to watch the film.
+It always takes the class a while to settle down at the start of the lesson.
+The early goal settled the home side down.
+Has she settled down in her new job?
+Eventually I'd like to settle down and have a family, but not yet.
+She likes to wear short skirts to show off her legs.
+That shirt shows off the color of your eyes.
+She only bought that sports car to show off and prove she could afford one. (23) 
+
+
+
+I’ll _____________ movie times and call you back.
+It's getting late - I'd better _____________ lunch.
+You should _____________ getting your hair cut.
+He _________ me _________ at the station.
+The caretaker ran out and _____________ the boys who had been damaging the fence in no time.
+We _____________ of the T-shirts in the first couple of hours.
+We couldn't get seats - the concert was _____________.
+He wouldn't _____________ the cause to serve his own interests.
+The company eventually _____________ to a multinational media group.
+We _____________ for London just after ten. 
+The court's initial verdict in the police officers' trial _____________ serious riots.
+Terrorists _____________ a bomb in the city centre.
+Opening this door will _____________ the alarm.
+That blouse _____________ the blue of her eyes.
+Come on all of you, stop talking and _____________ please!
+They _____________ on the sofa to watch the film.
+It always takes the class a while to _____________ at the start of the lesson.
+The early goal _________ the home side _________.
+Has she _____________ in her new job?
+Eventually I'd like to _____________ and have a family, but not yet.
+She likes to wear short skirts to _____________ her legs.
+That shirt _____________ the color of your eyes.
+She only bought that sports car to _____________ and prove she could afford one.
+
+
+quiz.1
+'Come on all of you, stop talking and _____________ please!',
+ 'They _____________ on the sofa to watch the film.',
+ 'Has she _____________ in her new job?',
+ 'You should _____________ getting your hair cut.',
+ "It's getting late - I'd better _____________ lunch.",
+ 'The early goal _________ the home side _________.',
+ "He wouldn't _____________ the cause to serve his own interests.",
+ "Eventually I'd like to _____________ and have a family, but not yet.",
+ 'That blouse _____________ the blue of her eyes.',
+ 'She only bought that sports car to _____________ and prove she could afford one.',
+ 'The company eventually _____________ to a multinational media group.',
+ 'We _____________ for London just after ten. ',
+ "We couldn't get seats - the concert was _____________.",
+ 'He _________ me _________ at the station.',
+ 'It always takes the class a while to _____________ at the start of the lesson.',
+ 'The caretaker ran out and _____________ the boys who had been damaging the fence in no time.',
+ 'That shirt _____________ the color of your eyes.',
+ 'I’ll _____________ movie times and call you back.',
+ "The court's initial verdict in the police officers' trial _____________ serious riots.",
+ 'We _____________ of the T-shirts in the first couple of hours.',
+ 'She likes to wear short skirts to _____________ her legs.',
+ 'Terrorists _____________ a bomb in the city centre.',
+ 'Opening this door will _____________ the alarm.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.
+
+shut down:
+The company plans to shut down four factories and cut 10,000 jobs.
+(Şirket dört fabrikayı kapatmayı ve 10.000 kişiyi işten çıkarmayı planlıyor.)
+The government shut down yesterday in observance of the Martin Luther King Jr. holiday.
+(Hükümet dün Martin Luther King Jr.'ın tatili nedeniyle kapandı.)
+British authorities finally shut down production at the Liverpool plant of the vaccine maker.
+We have shut the ivory trade down altogether. (Fildişi ticaretini tamamen durdurduk.)
+
+sign in/ log in:
+Users have to sign in to the site, leaving their name and e-mail address. to
+Find out more about our products by logging in/on to our website. to
+Messengers are required to sign in at the front desk when they make a delivery.
+(Kuryelerin teslimat yaparken resepsiyonda oturum açmaları gerekmektedir.)
+
+sign off:
+to end a conversation or a television or radio broadcast
+She signed off (her show) by wishing her listeners a Happy New Year.
+British En. to end a letter
+She signed off with ‘Yours, Janet’.
+US Inf. to stop doing your work or a similar activity for a period of time:
+As it's Friday, I think I'll sign off early today. (Bugün cuma olduğundan, sanırım bugün erken ayrılacağım.)
+​to give formal approval to something, by signing name
+President Clinton also is expected to sign off on the plan. (Başkan Clinton'un da planı imzalaması bekleniyor.)
+
+log off/out (of something)
+Log off before switching the computer off. (Bilgisayarı kapatmadan önce oturumu kapatın.)
+Make sure you log out of your account on public computers. of
+
+sign on/up:
+He signed up as a steward for a major airline company. (Büyük bir havayolu şirketine hostes olarak kaydoldu.)
+He signed on for five years in the army.
+
+sleep over:
+My mum said Mike could sleep over in the big room upstairs.
+It's very late now—why don't you sleep over?
+
+sneak around/in/into/out: Inf.
+I sneaked into his bedroom while he was asleep.
+We tried to sneak the dog into the hotel.
+I caught him trying to sneak in without paying.
+We sneaked out through the back door. through
+I sneaked up the stairs. (Merdivenlerden gizlice çıktım.)
+He sneaked the letter out of her drawer. of
+-I sneaked a look at the answers. a look at
+
+
+
+
+
+
+
+
+The company plans to shut down four factories and cut 10,000 jobs.
+The government shut down yesterday in observance of the Martin Luther King Jr. holiday.
+British authorities finally shut down production at the Liverpool plant of the vaccine maker.
+We have shut the ivory trade down altogether. 
+Users have to sign in to the site, leaving their name and e-mail address. 
+Find out more about our products by logging in/on to our website. 
+Messengers are required to sign in at the front desk when they make a delivery.
+She signed off (her show) by wishing her listeners a Happy New Year.
+She signed off with ‘Yours, Janet’.
+As it's Friday, I think I'll sign off early today. 
+President Clinton also is expected to sign off on the plan. 
+Log off before switching the computer off. 
+Make sure you log out of your account on public computers. 
+He signed up as a steward for a major airline company. 
+He signed on for five years in the army.
+My mum said Mike could sleep over in the big room upstairs.
+It's very late now—why don't you sleep over?
+I sneaked into his bedroom while he was asleep.
+We tried to sneak the dog into the hotel.
+I caught him trying to sneak in without paying.
+We sneaked out through the back door. 
+I sneaked up the stairs.
+He sneaked the letter out of her drawer. (23)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34.
+
+stop by: uğramak
+I was passing your house, so I thought I'd stop by for a chat.
+Could you stop by the store on the way home for some bread?
+(Eve giderken markete uğrayıp biraz ekmek alabilir misin?)
+
+suck up (to): yalakalık yapmak
+inf. They despise him because he’s always sucking up to the boss.
+(Her zaman patrona yalakalık yaptığı için onu hor görüyorlar.)
+
+take advantage of: yararlanmak
+Why not take advantage of this special discount?
+Adverts like this take advantage of people who are dealing with serious illnesses.
+We took full advantage of the hotel facilities.
+extra: be/work to sb's advantage (idiom): to give you an advantage
+It would be to your advantage to attend this meeting.
+(Bu toplantıya katılmanız yararınıza olacaktır.)
+
+take after: çekmek
+Your daughter doesn't take after you at all. (Kızın sana hiç çekmemiş.)
+He takes after his mother/his mother's side of the family.
+She takes after me with her love of horses.
+
+take apart: parçalara ayırmak, sökmek
+We took the engine apart to see what the problem was.
+also, to defeat someone very easily in a sport:
+inf. He took their defence apart, scoring three goals in the first 20 minutes.
+(İlk 20 dakikada 3 gol atarak savunmayı dağıttı.)
+
+take away:
+I can't eat any more, thanks - you can take it away now.
+I was given some pills to take away the pain. (Ağrıyı almak/dindirmek için bazı haplar verildi.)
+Supermarkets are taking business away from small local shops.
+(Süpermarketler, işleri küçük yerel dükkanlardan alıyor.)
+Every individual has rights that must never be taken away.
+
+
+
+
+
+I was passing your house, so I thought I'd stop by for a chat.
+Could you stop by the store on the way home for some bread?
+They despise him because he’s always sucking up to the boss.
+Why not take advantage of this special discount?
+Adverts like this take advantage of people who are dealing with serious illnesses.
+We took full advantage of the hotel facilities.
+It would be to your advantage to attend this meeting.
+Your daughter doesn't take after you at all. 
+He takes after his mother/his mother's side of the family.
+She takes after me with her love of horses.
+We took the engine apart to see what the problem was.
+He took their defence apart, scoring three goals in the first 20 minutes.
+I can't eat any more, thanks - you can take it away now.
+I was given some pills to take away the pain.
+Supermarkets are taking business away from small local shops.
+Every individual has rights that must never be taken away. (16)
+
+
+
+
+I was passing your house, so I thought I'd ____________ for a chat.
+Could you ____________ the store on the way home for some bread?
+They despise him because he’s always ____________ to the boss.
+Why not ____________ this special discount?
+Adverts like this ____________  people who are dealing with serious illnesses.
+We _________ full _________ the hotel facilities.
+It would _________ your _________ to attend this meeting.
+Your daughter doesn't ____________ you at all. 
+He ____________ his mother/his mother's side of the family.
+She ____________ me with her love of horses.
+We _________ the engine _________ to see what the problem was.
+He _________ their defence _________, scoring three goals in the first 20 minutes.
+I can't eat any more, thanks - you can _________ it _________ now.
+I was given some pills to ____________ the pain.
+Supermarkets _________ business _________ from small local shops.
+Every individual has rights that must never ____________.
+
+
+
+quiz 1. 
+'Could you ____________ the store on the way home for some bread?',
+ 'I was given some pills to ____________ the pain.',
+ 'It would _________ your _________ to attend this meeting.',
+ 'We _________ the engine _________ to see what the problem was.',
+ "Your daughter doesn't ____________ you at all. ",
+ 'They despise him because he’s always ____________ to the boss.',
+ "I was passing your house, so I thought I'd ____________ for a chat.",
+ "He ____________ his mother/his mother's side of the family.",
+ 'We _________ full _________ the hotel facilities.',
+ 'Every individual has rights that must never ____________.',
+ 'Adverts like this ____________  people who are dealing with serious illnesses.',
+ 'Supermarkets _________ business _________ from small local shops.',
+ "I can't eat any more, thanks - you can _________ it _________ now.",
+ 'He _________ their defence _________, scoring three goals in the first 20 minutes.',
+ 'Why not ____________ this special discount?',
+ 'She ____________ me with her love of horses.'
+#F8FFED
+#1A8A3B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35.
+
+take care of: 1. care for
+Take good care of that girl of yours, Patrick - she's very special.
+Who's going to take care of me in my old age?
+also, to deal with something, halletmek, icabına bakmak, ilgilenmek (includes 2):
+Tony said he was going to take care of that cop once and for all.
+(Tony o polisin icabına sonsuza kadar bakacağını söyledi.)
+If you can see to the drinks for the party, I'll take care of the food.
+This is a problem that should have been taken care of months ago.
+
+take down: sökmek, kaldırmak, indirmek
+The army took down the barricades erected by the rebels.
+Workmen arrived to take down the scaffolding. (İskeleyi sökmek için işçiler geldi.)
+We took down the partitions between our desks. (Masalarımız arasındaki bölmeleri kaldırdık.)
+We must take down our pants to pee.
+After the divorce, my parents took down her photo.
+(Boşandıktan sonra ailem onun fotoğrafını kaldırdı.)
+2. He took down my address and phone number and said he'd call me.
+
+take in: 
+1. [opposite: let out] I'll have to take this dress in at the waist - it's too big.
+2. [often passive] Don't be taken in by his charm—he's ruthless.
+(Cazibesine kanmayın, o acımasızdır.)
+Do you think the teacher was taken in by your excuse?
+3. I had to read the letter twice before I could take it all in.
+some else:
+Fish take in oxygen through their gills. (Balıklar oksijeni solungaçlarıyla alırlar.)
+​[no passive] to include or cover something:
+Her lecture took in all the recent developments in the subject.
+​[no passive] to go to see or visit something such as a film:
+I generally take in a show when I'm in New York.
+
+take it out on: (acısını) birinden çıkarmak
+I know you've had a bad day, but you don't have to take it out on me!
+(Kötü bir gün geçirdiğini biliyorum ama acısını benden çıkarmana gerek yok!)
+She tended to take her frustrations out on her family.
+
+take off:
+1. The plane took off at 8.30 a.m.
+2. The doctor told me to take off my shirt so he could listen to my chest.
+some else:
+to remove something (includes 1):
+Oops - I forgot to take the price label off your present.
+(Hay aksi, hediyenizin fiyat etiketini çıkarmayı unuttum.)
+to spend time away from your work, izin almak:
+We're planning to take some time off at Christmas.
+(Noel'de biraz izin almayı planlıyoruz.)
+to reduce a price by a particular amount:
+Being too near a train track could take thousands off the price of a house.
+​to copy somebody’s voice, actions or manner in a humorous way (noun: take-off):
+It was the best take-off of the prime minister that I have ever seen.
+
+take on:
+1. She was taken on as a laboratory assistant.
+2. Secretaries are now far more able to take on a more substantial support role.
+(Sekreterler artık çok daha önemli bir destek rolü üstlenebilmektedir.)
+some else:
+​[no passive] to begin to have a particular quality, appearance, etc.:
+A chameleon takes on the color of its surroundings.
+His voice took on a more serious tone.
+​(of a bus, plane or ship) to allow somebody/something to enter
+The bus stopped to take on more passengers.
+The ship took on more fuel at Freetown.
+to fight or compete against someone or something:
+I’ll take you on in a game of chess.
+
+
+
+
+
+_________ good _________  that girl of yours, Patrick - she's very special.
+Who's going to _____________ me in my old age?
+Tony said he was going to _____________ that cop once and for all.
+If you can see to the drinks for the party, I'll _____________ the food.
+This is a problem that should have been _____________ months ago.
+The army _____________ the barricades erected by the rebels.
+Workmen arrived to _____________ the scaffolding. 
+We _____________ the partitions between our desks.
+We must _____________ our pants to pee.
+After the divorce, my parents _____________ her photo.
+He _____________ my address and phone number and said he'd call me.
+I'll have to _________ this dress _________ at the waist - it's too big.
+Don't be _____________ by his charm—he's ruthless.
+Do you think the teacher was _____________ by your excuse?
+I had to read the letter twice before I could _________ it all _________.
+Fish _________ oxygen through their gills. 
+Her lecture _________ all the recent developments in the subject.
+I generally _____________ a show when I'm in New York.
+I know you've had a bad day, but you don't have to _____________ me!
+She tended to _________ her frustrations _________ her family.
+The plane _____________ at 8.30 a.m.
+The doctor told me to _____________ my shirt so he could listen to my chest.
+Oops - I forgot to _________ the price label _________ your present.
+We're planning to _________ some time _________ at Christmas.
+Being too near a train track could _________ thousands _________ the price of a house.
+It was the best _____________ of the prime minister that I have ever seen.
+She was _____________  as a laboratory assistant.
+Secretaries are now far more able to _____________  a more substantial support role.
+A chameleon _____________ the color of its surroundings.
+His voice _____________ a more serious tone.
+The bus stopped to _____________ more passengers.
+The ship _____________ more fuel at Freetown.
+I’ll _________ you _________ in a game of chess. (33)
+
+
+
+quiz.1
+'The plane _____________ at 8.30 a.m.',
+ "I generally _____________ a show when I'm in New York.",
+ "Don't be _____________ by his charm—he's ruthless.",
+ 'A chameleon _____________ the color of its surroundings.',
+ 'Fish _________ oxygen through their gills. ',
+ 'I had to read the letter twice before I could _________ it all _________.',
+ 'I’ll _________ you _________ in a game of chess.',
+ 'Do you think the teacher was _____________ by your excuse?',
+ 'His voice _____________ a more serious tone.',
+ 'Secretaries are now far more able to _____________  a more substantial support role.',
+ 'Tony said he was going to _____________ that cop once and for all.',
+ "_________ good _________  that girl of yours, Patrick - she's very special.",
+ 'Her lecture _________ all the recent developments in the subject.',
+ "I know you've had a bad day, but you don't have to _____________ me!",
+ "He _____________ my address and phone number and said he'd call me.",
+ 'The army _____________ the barricades erected by the rebels.',
+ 'Being too near a train track could _________ thousands _________ the price of a house.',
+ 'We _____________ the partitions between our desks.',
+ 'It was the best _____________ of the prime minister that I have ever seen.',
+ 'We must _____________ our pants to pee.',
+ 'The doctor told me to _____________ my shirt so he could listen to my chest.',
+ 'Workmen arrived to _____________ the scaffolding. ',
+ "If you can see to the drinks for the party, I'll _____________ the food.",
+ 'She tended to _________ her frustrations _________ her family.',
+ "Who's going to _____________ me in my old age?",
+ 'This is a problem that should have been _____________ months ago.',
+ 'She was _____________  as a laboratory assistant.',
+ 'Oops - I forgot to _________ the price label _________ your present.',
+ 'The ship _____________ more fuel at Freetown.',
+ 'After the divorce, my parents _____________ her photo.',
+ "I'll have to _________ this dress _________ at the waist - it's too big.",
+ 'The bus stopped to _____________ more passengers.',
+ "We're planning to _________ some time _________ at Christmas."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36.
+
+take out:
+How many teeth did the dentist take out?
+They took out a benign lump from her breast.
+(Göğsünden iyi huylu bir yumru çıkardılar.)
+Take out the seeds before you slice the papaya.
+Dad's taking the whole family out to the cinema. to
+Our boss took us out for drinks. for
+some else:
+to get money from a bank account:
+I had to take $10,000 out of a savings account in order to pay for the car.
+to arrange to get something from a company, bank, etc.:
+I’m going to take out a life insurance policy/ loan/ mortgage.
+(Bir hayat sigortası poliçesi yapacağım.)
+
+take over: (noun: take-over)
+Jason Lamb has taken over responsibility for this project.
+There are rumours that a German firm is bidding to take over the shoe factory.
+(Bir Alman firmasının ayakkabı fabrikasını devralmak için teklif verdiğine dair söylentiler var.)
+It has been suggested that mammals took over from dinosaurs 65 million years ago.
+
+take place:
+The film festival takes place in October.
+We may never discover what took place that night.
+The novel takes place over the course of a single day.
+A pitched battle took place between the two groups.
+(İki grup arasında meydan savaşı yaşandı.)
+Bribery and intimidation took place under the noses of the bureaucrats.
+(Rüşvet ve sindirme bürokratların burnunun dibinde gerçekleşti.)
+Elections are to take place for local council seats next month.
+also, to replace somebody/something
+She couldn't attend the meeting so her assistant took her place.
+Computers have taken the place of typewriters in most offices.
+(Bilgisayarlar çoğu ofiste daktiloların yerini almıştır.)
+
+take to:
+She took to tennis as if she'd been playing all her life.
+She was so depressed she took to drink.
+(O kadar depresyondaydı ki içmeye başladı.)
+He's taken to staying out very late. ing
+(Çok geç saatlere kadar dışarıda kalmaya alıştı.)
+The two dogs took to each other immediately and started to play.
+This TV show is really bad, for some reason the public took to it.
+
+take up: 
+I left my job in the city to take up organic farming.
+Have you ever thought of taking up acting? ing
+A good deal of my time is taken up with writing new books. with
+(Zamanımın büyük bir kısmı yeni kitaplar yazmakla geçiyor.)
+Half the letter is taken up with her complaining about her neighbours. with
+Most of the garage space is taken up with his music kit. with
+some else:
+to continue, especially starting after somebody/something else has finished:
+The band's new album takes up where their last one left off.
+(Grubun yeni albümü bir önceki albümün kaldığı yerden devam ediyor.)
+to discuss or manage something:
+The school plans to take the matter up with the parents.
+(Okul, konuyu velilerle görüşmeyi planlıyor.)
+
+talk into/out of:
+I didn't want to move abroad but Bill talked me into it.
+Her parents tried to talk her out of getting engaged. ing
+
+
+
+
+How many teeth did the dentist take out?
+They took out a benign lump from her breast.
+Take out the seeds before you slice the papaya.
+Dad's taking the whole family out to the cinema. 
+Our boss took us out for drinks. 
+I had to take $10,000 out of a savings account in order to pay for the car.
+I’m going to take out a life insurance policy/ loan/ mortgage.
+Jason Lamb has taken over responsibility for this project.
+There are rumours that a German firm is bidding to take over the shoe factory.
+It has been suggested that mammals took over from dinosaurs 65 million years ago.
+The film festival takes place in October.
+We may never discover what took place that night.
+The novel takes place over the course of a single day.
+A pitched battle took place between the two groups.
+Bribery and intimidation took place under the noses of the bureaucrats.
+Elections are to take place for local council seats next month.
+She couldn't attend the meeting so her assistant took her place.
+Computers have taken the place of typewriters in most offices.
+She took to tennis as if she'd been playing all her life.
+She was so depressed she took to drink.
+He's taken to staying out very late. 
+The two dogs took to each other immediately and started to play.
+This TV show is really bad, for some reason the public took to it.
+I left my job in the city to take up organic farming.
+Have you ever thought of taking up acting? 
+A good deal of my time is taken up with writing new books. 
+Half the letter is taken up with her complaining about her neighbours. 
+Most of the garage space is taken up with his music kit. 
+The band's new album takes up where their last one left off.
+The school plans to take the matter up with the parents.
+I didn't want to move abroad but Bill talked me into it.
+Her parents tried to talk her out of getting engaged. (32)
+
+
+
+
+
+How many teeth did the dentist _____________?
+They _____________ a benign lump from her breast.
+_____________ the seeds before you slice the papaya.
+Dad's _________ the whole family _________ to the cinema. 
+Our boss _________ us _________ for drinks. 
+I had to _________ $10,000 _________ of a savings account in order to pay for the car.
+I’m going to _____________ a life insurance policy/ loan/ mortgage.
+Jason Lamb has _____________ responsibility for this project.
+There are rumours that a German firm is bidding to _____________ the shoe factory.
+It has been suggested that mammals _____________ from dinosaurs 65 million years ago.
+The film festival _____________ in October.
+We may never discover what _____________ that night.
+The novel _____________ over the course of a single day.
+A pitched battle _____________ between the two groups.
+Bribery and intimidation _____________ under the noses of the bureaucrats.
+Elections are to _____________ for local council seats next month.
+She couldn't attend the meeting so her assistant _________ her _________.
+Computers have _________ the _________ of typewriters in most offices.
+She _____________ tennis as if she'd been playing all her life.
+She was so depressed she _____________ drink.
+He's _____________ staying out very late. 
+The two dogs _____________ each other immediately and started to play.
+This TV show is really bad, for some reason the public _____________ it.
+I left my job in the city to _____________ organic farming.
+Have you ever thought of _____________ acting? 
+A good deal of my time is _____________ with writing new books. 
+Half the letter is _____________ with her complaining about her neighbours. 
+Most of the garage space is _____________ with his music kit. 
+The band's new album _____________ where their last one left off.
+The school plans to _________ the matter _________ with the parents.
+I didn't want to move abroad but Bill _________ me _________ it.
+Her parents tried to _________ her _________ getting engaged. 
+
+
+
+
+
+quiz.1
+"I didn't want to move abroad but Bill _________ me _________ it.",
+ 'Her parents tried to _________ her _________ getting engaged.',
+ 'There are rumours that a German firm is bidding to _____________ the shoe factory.',
+ "He's _____________ staying out very late. ",
+ 'A pitched battle _____________ between the two groups.',
+ 'Half the letter is _____________ with her complaining about her neighbours. ',
+ 'It has been suggested that mammals _____________ from dinosaurs 65 million years ago.',
+ 'I’m going to _____________ a life insurance policy/ loan/ mortgage.',
+ 'The film festival _____________ in October.',
+ 'We may never discover what _____________ that night.',
+ '_____________ the seeds before you slice the papaya.',
+ 'The school plans to _________ the matter _________ with the parents.',
+ 'The two dogs _____________ each other immediately and started to play.',
+ 'Most of the garage space is _____________ with his music kit. ',
+ 'Bribery and intimidation _____________ under the noses of the bureaucrats.',
+ 'Elections are to _____________ for local council seats next month.',
+ "She couldn't attend the meeting so her assistant _________ her _________.",
+ "She _____________ tennis as if she'd been playing all her life.",
+ 'I had to _________ $10,000 _________ of a savings account in order to pay for the car.',
+ "The band's new album _____________ where their last one left off.",
+ "Dad's _________ the whole family _________ to the cinema. ",
+ 'Our boss _________ us _________ for drinks. ',
+ 'Computers have _________ the _________ of typewriters in most offices.',
+ 'The novel _____________ over the course of a single day.',
+ 'I left my job in the city to _____________ organic farming.',
+ 'Jason Lamb has _____________ responsibility for this project.',
+ 'They _____________ a benign lump from her breast.',
+ 'Have you ever thought of _____________ acting? ',
+ 'This TV show is really bad, for some reason the public _____________ it.',
+ 'A good deal of my time is _____________ with writing new books. ',
+ 'How many teeth did the dentist _____________?',
+ 'She was so depressed she _____________ drink.'
+#FFEBED
+
+
+
+
+
+
+
+
+
+
+
+
+38.
+
+try out: denemek
+To ‘try’ anything means to make an attempt to do something, and to ‘try out’ something means to put it to the test and see how it works:
+You should try harder on your homework so you will understand the content. on
+I am going to try to be there before it gets dark.
+You should try out these new sunglasses because they are fantastic!
+They're trying out a new presenter for the show.
+We use “try on” specifically in the context of clothes in the same context as “try out” (to see if something fits or looks well on you):
+I always try on jeans before buying them. 
+
+turn around:
+I turned my chair around to face the fire.
+The new management team turned the ailing company around in under six months.
+
+turn down:
+1. Why did she turn down your invitation?
+He was turned down for the job because of insufficient experience. for
+The bank turned her down for a loan. for
+2. Please turn the volume down.
+
+turn in: teslim etmek
+I haven't even turned in Monday's work yet.
+2 and 3. (informal)
+She threatened to turn him in to the police.
+He decided to turn himself in.
+also: to achieve a performance
+Both companies turn in pretax profits of over 5.5 million annually.
+
+turn into:
+The prince was turned into a frog by the witch.
+They've turned an old factory into a nightclub.
+In one year she turned from a problem child into a model student.
+
+turn out:
+As events turned out, we were right to have decided to leave early.
+The truth turned out to be stranger than we had expected.
+(Gerçek, beklediğimizden daha garip çıktı.)
+It turns out that she had known him when they were children.
+(Onu çocukken tanıdığı ortaya çıktı.)
+Despite our worries everything turned out well.
+ + adj. If the day turns out wet, we may have to change our plans.
+some examples among many other meanings:
+A vast crowd turned out to watch the procession.
+The school has turned out some first-rate students.
+Our factory is turning the dolls out as fast as it can.
+Remember to turn out the lights when you go to bed.
+
+
+
+You should try harder on your homework so you will understand the content.
+I am going to try to be there before it gets dark.
+You should try out these new sunglasses because they are fantastic!
+They're trying out a new presenter for the show.
+I always try on jeans before buying them. 
+I turned my chair around to face the fire.
+The new management team turned the ailing company around in under six months.
+Why did she turn down your invitation?
+He was turned down for the job because of insufficient experience. 
+The bank turned her down for a loan. 
+Please turn the volume down.
+I haven't even turned in Monday's work yet.
+She threatened to turn him in to the police.
+He decided to turn himself in.
+Both companies turn in pretax profits of over 5.5 million annually.
+The prince was turned into a frog by the witch.
+They've turned an old factory into a nightclub.
+In one year she turned from a problem child into a model student.
+As events turned out, we were right to have decided to leave early.
+The truth turned out to be stranger than we had expected.
+It turns out that she had known him when they were children.
+Despite our worries everything turned out well.
+If the day turns out wet, we may have to change our plans.
+A vast crowd turned out to watch the procession.
+The school has turned out some first-rate students.
+Our factory is turning the dolls out as fast as it can.
+Remember to turn out the lights when you go to bed. (27)
+
+
+You should ________ harder ________ your homework so you will understand the content.
+I am going to ____________ to be there before it gets dark.
+You should ____________ these new sunglasses because they are fantastic!
+They're ____________ a new presenter for the show.
+I always ____________ jeans before buying them. 
+I ________ my chair ________ to face the fire.
+The new management team ________ the ailing company ________ in under six months.
+Why did she ____________ your invitation?
+He was ____________ for the job because of insufficient experience. 
+The bank ________ her ________ for a loan. 
+Please ________ the volume ________.
+I haven't even ____________ Monday's work yet.
+She threatened to ________ him ________ to the police.
+He decided to ________ himself ________.
+Both companies ____________ pretax profits of over 5.5 million annually.
+The prince was ____________ a frog by the witch.
+They've ________ an old factory ________ a nightclub.
+In one year she ________ from a problem child ________ a model student.
+As events ____________, we were right to have decided to leave early.
+The truth ____________ to be stranger than we had expected.
+It ____________ that she had known him when they were children.
+Despite our worries everything ____________ well.
+If the day ____________ wet, we may have to change our plans.
+A vast crowd ____________ to watch the procession.
+The school has ____________ some first-rate students.
+Our factory is ________ the dolls ________ as fast as it can.
+Remember to ____________ the lights when you go to bed.
+
+
+quiz 1.
+['In one year she ________ from a problem child ________ a model student.',
+ "I haven't even ____________ Monday's work yet.",
+ "They've ________ an old factory ________ a nightclub.",
+ 'Despite our worries everything ____________ well.',
+ 'I always ____________ jeans before buying them. ',
+ 'Why did she ____________ your invitation?',
+ 'Both companies ____________ pretax profits of over 5.5 million annually.',
+ 'She threatened to ________ him ________ to the police.',
+ 'He decided to ________ himself ________.',
+ 'He was ____________ for the job because of insufficient experience. ',
+ 'The new management team ________ the ailing company ________ in under six months.',
+ 'A vast crowd ____________ to watch the procession.',
+ 'You should ________ harder ________ your homework so you will understand the content.',
+ 'The school has ____________ some first-rate students.',
+ 'I ________ my chair ________ to face the fire.',
+ 'Remember to ____________ the lights when you go to bed.',
+ 'If the day ____________ wet, we may have to change our plans.',
+ 'As events ____________, we were right to have decided to leave early.',
+ 'The truth ____________ to be stranger than we had expected.',
+ 'The bank ________ her ________ for a loan. ',
+ 'Our factory is ________ the dolls ________ as fast as it can.',
+ 'Please ________ the volume ________.',
+ 'You should ____________ these new sunglasses because they are fantastic!',
+ "They're ____________ a new presenter for the show.",
+ 'The prince was ____________ a frog by the witch.',
+ 'I am going to ____________ to be there before it gets dark.',
+ 'It ____________ that she had known him when they were children.']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
